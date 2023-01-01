@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify Salutation field in the Add contact page has default value as per design." id="HTCHR_AC_SCR_001_TC_003">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Main page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Page Heading is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify Navigate to login page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully logedIn " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the MenuButton button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Actions" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Action Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the Add New Listing item" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add New Listing" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Add New Listing item" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Exception in the method getElementAndClickjava.lang.IllegalArgumentException: No enum constant automationFramework.GenericKeywords.identifierType.//label[text()" ScreenShotName="../../Screenshots/TestFailure1" Status="Fail"/>
+  <TestStep Link="" Message="Verify Salutation is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="typeIn Salutation is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the Salutation label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify FirstName label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the FirstName label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium' in: TypeIn firstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully enter the FirstName field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Exception in countOFCharacterorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']&quot;}&#10;  (Session info: chrome=108.0.5359.125)&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'&#10;System info: host: 'IND-CHN-LT12568', ip: '10.10.152.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}), userDataDir=C:\Users\I5454\AppData\Local\Temp\scoped_dir18748_199358419}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:49619}, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=108.0.5359.125, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: 5fbdaad20a26197572ea44fda5ac1ea1&#10;*** Element info: {Using=xpath, value=//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']}" ScreenShotName="../../Screenshots/TestFailure2" Status="Fail"/>
+  <TestStep Link="" Message="verify LastName label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the LastName label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Sample' in: TypeIn LastName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully Enter the LastName field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Exception in countOFCharacterorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']&quot;}&#10;  (Session info: chrome=108.0.5359.125)&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'&#10;System info: host: 'IND-CHN-LT12568', ip: '10.10.152.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}), userDataDir=C:\Users\I5454\AppData\Local\Temp\scoped_dir18748_199358419}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:49619}, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=108.0.5359.125, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: 5fbdaad20a26197572ea44fda5ac1ea1&#10;*** Element info: {Using=xpath, value=//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']}" ScreenShotName="../../Screenshots/TestFailure3" Status="Fail"/>
+  </TestCase>
+</Scenario>

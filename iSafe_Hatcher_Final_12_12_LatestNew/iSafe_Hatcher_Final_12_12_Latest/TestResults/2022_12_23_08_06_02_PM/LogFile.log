@@ -1,0 +1,19 @@
+ INFO | 2022-12-23 20:06:02,480 | Common.java | 76 | Startup activites...
+ INFO | 2022-12-23 20:06:02,485 | Common.java | 76 | Test Output Directory creation successful :D:\Hatcher\iSafe_Hatcher_Final_12_12_LatestNew\iSafe_Hatcher_Final_12_12_Latest/TestResults/2022_12_23_08_06_02_PM
+ INFO | 2022-12-23 20:06:02,486 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2022-12-23 20:06:02,688 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-23 20:06:02,957 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-23 20:06:02,960 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2022-12-23 20:06:03,027 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-23 20:06:03,029 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-23 20:06:03,195 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 20:06:03,202 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 20:06:04,240 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-23 20:06:04,245 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-23 20:06:04,246 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-23 20:06:04,248 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-23 20:06:04,249 | Common.java | 76 | Element time out set
+ INFO | 2022-12-23 20:06:04,254 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-23 20:06:04,256 | Common.java | 76 | Opening Chrome Browser...
+ INFO | 2022-12-23 20:06:04,259 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2022-12-23 20:06:04,287 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 

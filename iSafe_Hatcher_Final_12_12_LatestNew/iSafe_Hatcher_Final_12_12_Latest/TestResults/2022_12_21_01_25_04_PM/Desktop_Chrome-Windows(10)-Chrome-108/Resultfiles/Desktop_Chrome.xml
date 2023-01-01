@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify Salutation field in the Add contact page has default value as per design." id="HTCHR_AC_SCR_001_TC_003"/>
+</Scenario>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify on clicking &quot;Add contact&quot;, System displays the provision to input data" id="userClickOnmenuButton"/>
+</Scenario>

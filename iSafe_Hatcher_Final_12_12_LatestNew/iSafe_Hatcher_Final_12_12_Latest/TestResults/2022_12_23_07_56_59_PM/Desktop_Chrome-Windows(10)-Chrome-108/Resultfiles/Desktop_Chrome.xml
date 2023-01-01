@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify on clicking Add contact, System displays the provision to input data" id="HTCHR_AC_SCR_001_TC_001">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Main page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Welcome back is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Please login is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Log in via... is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="  Google is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message=" is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Forgot password? Click here is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully logedIn " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="List Of Sidebar Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions DropDown is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing Dialog Box is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully navigate to Add New Listing Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Mr is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Listing Close button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add Listing Close button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully navigate to Home Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="logout button  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the LogOut menu" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: logout button " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on logOut menu" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="select logout button  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the LogOut Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: select logout button " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on logOut button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="successfully logOut the Application" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+<TestCase description="Verify Salutation field in the Add contact page has default value as per design." id="HTCHR_AC_SCR_001_TC_003">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Main page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Welcome back is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Please login is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Log in via... is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="  Google is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message=" is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Forgot password? Click here is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon element is not displayed within 10 timeouts" ScreenShotName="../../Screenshots/TestFailure1" Status="Fail"/>
+  <TestStep Link="" Message="Exception in LaunchApplicationorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@id='dropdownUserButton']&quot;}&#10;  (Session info: chrome=108.0.5359.125)&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'&#10;System info: host: 'IND-CHN-LT12568', ip: '192.168.236.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}), userDataDir=C:\Users\I5454\AppData\Local\Temp\scoped_dir13376_353027462}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:56400}, webdriver.remote.sessionid=6d56e13b6c329a9a15358fa87aa93e2e, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=108.0.5359.125, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: 6d56e13b6c329a9a15358fa87aa93e2e&#10;*** Element info: {Using=xpath, value=//a[@id='dropdownUserButton']}" ScreenShotName="../../Screenshots/TestFailure3" Status="Fail"/>
+  </TestCase>
+<TestCase description="Verify first name field in the Add contact page has proper place holder text" id="HTCHR_AC_SCR_001_TC_004"/>
+</Scenario>

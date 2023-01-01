@@ -1,0 +1,1050 @@
+ INFO | 2022-12-23 12:06:12,166 | Common.java | 76 | Startup activites...
+ INFO | 2022-12-23 12:06:12,170 | Common.java | 76 | Test Output Directory creation successful :D:\Hatcher\iSafe_Hatcher_Final_12_12_LatestNew\iSafe_Hatcher_Final_12_12_Latest/TestResults/2022_12_23_00_06_11_PM
+ INFO | 2022-12-23 12:06:12,171 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2022-12-23 12:06:12,356 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-23 12:06:12,590 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-23 12:06:12,592 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2022-12-23 12:06:12,700 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-23 12:06:12,702 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-23 12:06:12,887 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:06:12,895 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:06:13,837 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-23 12:06:13,841 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-23 12:06:13,843 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-23 12:06:13,846 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-23 12:06:13,846 | Common.java | 76 | Element time out set
+ INFO | 2022-12-23 12:06:13,851 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-23 12:06:13,853 | Common.java | 76 | Opening Chrome Browser...
+ INFO | 2022-12-23 12:06:13,856 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2022-12-23 12:06:13,885 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2022-12-23 12:06:20,270 | Common.java | 76 | Successfully Maximised Browser Window
+ INFO | 2022-12-23 12:06:20,337 | Common.java | 76 | Browser: Open Successful : chrome
+ INFO | 2022-12-23 12:06:20,337 | Common.java | 76 | Open Browser : chrome
+ INFO | 2022-12-23 12:06:20,340 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-23 12:06:20,341 | Common.java | 76 | Navigating to URL : https://hq.hatcher-staging.com/
+ INFO | 2022-12-23 12:06:35,333 | Common.java | 76 | Navigation Successful : https://hq.hatcher-staging.com/
+ INFO | 2022-12-23 12:06:35,334 | Common.java | 76 | Navigate to : https://hq.hatcher-staging.com/
+ INFO | 2022-12-23 12:06:35,352 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : ./Logos/Indium-Software-Logo.jpg
+ INFO | 2022-12-23 12:06:35,354 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : ./Logos/client_logo.jpg
+ INFO | 2022-12-23 12:06:35,356 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : ./Logos/Indium-Software-Logo.jpg
+ INFO | 2022-12-23 12:06:35,357 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : ./Logos/client_logo.jpg
+ INFO | 2022-12-23 12:06:35,432 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-23 12:06:35,434 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-23 12:06:35,436 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-23 12:06:35,438 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-23 12:06:35,438 | Common.java | 76 | Element time out set
+ INFO | 2022-12-23 12:06:35,439 | Common.java | 76 | ############# Start of Test Case[HTCHR_AC_SCR_001_TC_001] : Verify on clicking Add contact, System displays the provision to input data #############
+ INFO | 2022-12-23 12:06:35,467 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:35,469 | Common.java | 76 | Test Case tag is created
+ INFO | 2022-12-23 12:06:35,478 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:35,480 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:06:35,557 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:06:35,622 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:06:35,678 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:06:35,733 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:06:35,795 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:06:35,912 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:06:35,913 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:06:35,913 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:35,913 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:06:36,258 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:06:36,259 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:06:36,259 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:36,259 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:06:36,399 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:06:36,400 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:06:36,400 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:36,400 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:06:40,288 | Common.java | 76 | Login Button is displayed
+ INFO | 2022-12-23 12:06:40,296 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:40,298 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:40,307 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:40,707 | Common.java | 76 | Main page is lunched successfully
+ INFO | 2022-12-23 12:06:40,712 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:40,712 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:40,721 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:40,818 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:06:40,819 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:06:40,819 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:40,819 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:06:50,641 | Common.java | 76 | Click on: Login Button
+ INFO | 2022-12-23 12:06:50,648 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:50,649 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:50,659 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:50,754 | Common.java | 76 | Successfully click on Login Page
+ INFO | 2022-12-23 12:06:50,758 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:50,759 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:50,767 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:50,811 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:06:50,811 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:06:50,811 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:50,811 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:06:50,882 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:06:50,882 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:06:50,882 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:50,882 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:06:51,100 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:06:51,100 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:06:51,100 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:51,101 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:06:51,234 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:06:51,234 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:06:51,234 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:51,235 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:06:51,372 | Common.java | 76 | Sucessfully got the text 'Welcome back' for Login Page Heading
+ INFO | 2022-12-23 12:06:51,436 | Common.java | 76 | Welcome back is Displayed
+ INFO | 2022-12-23 12:06:51,441 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:51,442 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:51,454 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:51,488 | Common.java | 76 | Parsing Locator: Please login Text#xpath=//span[text()='Please login']
+ INFO | 2022-12-23 12:06:51,489 | Common.java | 76 | Desktop_Chrome - Locator Description : Please login Text
+ INFO | 2022-12-23 12:06:51,489 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:51,490 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Please login']
+ INFO | 2022-12-23 12:06:51,548 | Common.java | 76 | Parsing Locator: Please login Text#xpath=//span[text()='Please login']
+ INFO | 2022-12-23 12:06:51,549 | Common.java | 76 | Desktop_Chrome - Locator Description : Please login Text
+ INFO | 2022-12-23 12:06:51,549 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:51,549 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Please login']
+ INFO | 2022-12-23 12:06:51,783 | Common.java | 76 | Parsing Locator: Please login Text#xpath=//span[text()='Please login']
+ INFO | 2022-12-23 12:06:51,783 | Common.java | 76 | Desktop_Chrome - Locator Description : Please login Text
+ INFO | 2022-12-23 12:06:51,784 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:51,784 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Please login']
+ INFO | 2022-12-23 12:06:51,913 | Common.java | 76 | Parsing Locator: Please login Text#xpath=//span[text()='Please login']
+ INFO | 2022-12-23 12:06:51,914 | Common.java | 76 | Desktop_Chrome - Locator Description : Please login Text
+ INFO | 2022-12-23 12:06:51,914 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:51,915 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Please login']
+ INFO | 2022-12-23 12:06:52,049 | Common.java | 76 | Sucessfully got the text 'Please login' for Please login Text
+ INFO | 2022-12-23 12:06:52,101 | Common.java | 76 | Please login is Displayed
+ INFO | 2022-12-23 12:06:52,105 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:52,105 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:52,115 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:52,152 | Common.java | 76 | Parsing Locator: Log in via Text#xpath=//div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:06:52,152 | Common.java | 76 | Desktop_Chrome - Locator Description : Log in via Text
+ INFO | 2022-12-23 12:06:52,153 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:52,153 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:06:52,211 | Common.java | 76 | Parsing Locator: Log in via Text#xpath=//div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:06:52,211 | Common.java | 76 | Desktop_Chrome - Locator Description : Log in via Text
+ INFO | 2022-12-23 12:06:52,212 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:52,212 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:06:52,445 | Common.java | 76 | Parsing Locator: Log in via Text#xpath=//div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:06:52,445 | Common.java | 76 | Desktop_Chrome - Locator Description : Log in via Text
+ INFO | 2022-12-23 12:06:52,445 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:52,446 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:06:52,568 | Common.java | 76 | Parsing Locator: Log in via Text#xpath=//div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:06:52,568 | Common.java | 76 | Desktop_Chrome - Locator Description : Log in via Text
+ INFO | 2022-12-23 12:06:52,569 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:52,569 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:06:52,700 | Common.java | 76 | Sucessfully got the text 'Log in via...' for Log in via Text
+ INFO | 2022-12-23 12:06:52,752 | Common.java | 76 | Log in via... is Displayed
+ INFO | 2022-12-23 12:06:52,757 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:52,758 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:52,769 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:52,803 | Common.java | 76 | Parsing Locator: Google button#xpath=//img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:06:52,803 | Common.java | 76 | Desktop_Chrome - Locator Description : Google button
+ INFO | 2022-12-23 12:06:52,804 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:52,804 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:06:52,861 | Common.java | 76 | Parsing Locator: Google button#xpath=//img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:06:52,861 | Common.java | 76 | Desktop_Chrome - Locator Description : Google button
+ INFO | 2022-12-23 12:06:52,861 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:52,862 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:06:53,081 | Common.java | 76 | Parsing Locator: Google button#xpath=//img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:06:53,081 | Common.java | 76 | Desktop_Chrome - Locator Description : Google button
+ INFO | 2022-12-23 12:06:53,082 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:53,082 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:06:53,211 | Common.java | 76 | Parsing Locator: Google button#xpath=//img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:06:53,211 | Common.java | 76 | Desktop_Chrome - Locator Description : Google button
+ INFO | 2022-12-23 12:06:53,212 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:53,212 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:06:53,360 | Common.java | 76 | Sucessfully got the text '  Google' for Google button
+ INFO | 2022-12-23 12:06:53,424 | Common.java | 76 |   Google is Displayed
+ INFO | 2022-12-23 12:06:53,430 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:53,430 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:53,443 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:53,474 | Common.java | 76 | Parsing Locator: linkedin button#xpath=//img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:06:53,474 | Common.java | 76 | Desktop_Chrome - Locator Description : linkedin button
+ INFO | 2022-12-23 12:06:53,474 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:53,474 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:06:53,528 | Common.java | 76 | Parsing Locator: linkedin button#xpath=//img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:06:53,528 | Common.java | 76 | Desktop_Chrome - Locator Description : linkedin button
+ INFO | 2022-12-23 12:06:53,529 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:53,529 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:06:53,746 | Common.java | 76 | Parsing Locator: linkedin button#xpath=//img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:06:53,746 | Common.java | 76 | Desktop_Chrome - Locator Description : linkedin button
+ INFO | 2022-12-23 12:06:53,747 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:53,747 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:06:53,883 | Common.java | 76 | Parsing Locator: linkedin button#xpath=//img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:06:53,884 | Common.java | 76 | Desktop_Chrome - Locator Description : linkedin button
+ INFO | 2022-12-23 12:06:53,884 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:53,884 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:06:54,043 | Common.java | 76 | Sucessfully got the text '' for linkedin button
+ INFO | 2022-12-23 12:06:54,106 | Common.java | 76 |  is Displayed
+ INFO | 2022-12-23 12:06:54,112 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:06:54,113 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:06:54,128 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:06:54,167 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:54,167 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:06:54,167 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:54,167 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:54,227 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:54,227 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:06:54,227 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:54,228 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:54,396 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:06:55,404 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:55,404 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:06:55,404 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:55,404 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:55,562 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:06:56,570 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:56,570 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:06:56,570 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:56,570 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:56,725 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:06:57,734 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:57,734 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:06:57,734 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:57,734 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:57,886 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:06:58,901 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:58,901 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:06:58,901 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:06:58,901 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:06:59,056 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:00,067 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:00,067 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:07:00,067 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:00,067 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:00,227 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:01,231 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:01,232 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:07:01,232 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:01,233 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:01,400 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:02,411 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:02,411 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:07:02,412 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:02,412 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:02,566 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:03,577 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:03,577 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:07:03,578 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:03,578 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:03,732 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:04,741 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:04,741 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:07:04,742 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:04,742 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:04,915 | Common.java | 76 | Waiting for 1 seconds...
+ERROR | 2022-12-23 12:07:06,193 | Common.java | 84 | Forgot Password Text element is not displayed within 10 timeouts
+ INFO | 2022-12-23 12:07:06,199 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:06,199 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:06,212 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:06,251 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-12-23 12:07:06,253 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:06,255 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:06,258 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:06,261 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:06,263 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:06,330 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:06,331 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:07:06,331 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:06,331 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:06,455 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:06,456 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:07:06,456 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:06,456 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:07:06,590 | Common.java | 76 | Sucessfully got the text '' for Forgot Password Text
+ INFO | 2022-12-23 12:07:06,654 | Common.java | 76 |  is Displayed
+ INFO | 2022-12-23 12:07:06,659 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:06,660 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:06,673 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:06,775 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:06,775 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:07:06,776 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:06,776 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:07,045 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:07,045 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:07:07,045 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:07,045 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:07,178 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:07,178 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:07:07,179 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:07,179 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:07,333 | Common.java | 76 | Login Page Heading is displayed
+ INFO | 2022-12-23 12:07:07,339 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:07,339 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:07,353 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:07,385 | Common.java | 76 | Login page is lunched successfully
+ INFO | 2022-12-23 12:07:07,393 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:07,394 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:07,406 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:07,501 | Common.java | 76 | Parsing Locator: Email Address Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-23 12:07:07,501 | Common.java | 76 | Desktop_Chrome - Locator Description : Email Address Textbox in Login Form
+ INFO | 2022-12-23 12:07:07,501 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:07,501 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-23 12:07:08,080 | Common.java | 76 | Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form
+ INFO | 2022-12-23 12:07:08,086 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:08,087 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:08,099 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:08,234 | Common.java | 76 | Parsing Locator: Password Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-23 12:07:08,234 | Common.java | 76 | Desktop_Chrome - Locator Description : Password Textbox in Login Form
+ INFO | 2022-12-23 12:07:08,234 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:08,235 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-23 12:07:08,703 | Common.java | 76 | Type 'Indium@123' in: Password Textbox in Login Form
+ INFO | 2022-12-23 12:07:08,710 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:08,711 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:08,721 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:08,901 | Common.java | 76 | Parsing Locator: Login Button in Login Form#xpath=//div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-23 12:07:08,901 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button in Login Form
+ INFO | 2022-12-23 12:07:08,901 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:08,901 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-23 12:07:09,090 | Common.java | 76 | Click on: Login Button in Login Form
+ INFO | 2022-12-23 12:07:09,094 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:09,095 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:09,105 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:09,261 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:09,261 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:07:09,261 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:09,261 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:09,370 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-23 12:07:10,384 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:10,384 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:07:10,385 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:10,385 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:10,467 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-23 12:07:11,470 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:11,470 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:07:11,470 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:11,470 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:11,544 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ERROR | 2022-12-23 12:07:35,262 | Common.java | 84 | verify Navigate to login page element is not displayed within 3 timeouts
+ INFO | 2022-12-23 12:07:35,267 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:35,267 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:35,280 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:35,311 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-12-23 12:07:35,313 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:35,316 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:35,318 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:35,320 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:35,323 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 3
+ INFO | 2022-12-23 12:07:35,323 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:35,323 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:07:35,323 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:35,323 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:35,608 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:35,608 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:07:35,608 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:35,608 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:35,740 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:35,741 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:07:35,741 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:35,741 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:07:35,921 | Common.java | 76 | verify Navigate to login page is displayed
+ INFO | 2022-12-23 12:07:35,926 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:35,927 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:35,939 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:35,975 | Common.java | 76 | Successfully logedIn 
+ INFO | 2022-12-23 12:07:35,981 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:35,981 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:35,993 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:36,085 | Common.java | 76 | Parsing Locator: List Of Sidebar Button#xpath=//div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:07:36,085 | Common.java | 76 | Desktop_Chrome - Locator Description : List Of Sidebar Button
+ INFO | 2022-12-23 12:07:36,085 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:36,085 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:07:36,220 | Common.java | 76 | Parsing Locator: List Of Sidebar Button#xpath=//div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:07:36,221 | Common.java | 76 | Desktop_Chrome - Locator Description : List Of Sidebar Button
+ INFO | 2022-12-23 12:07:36,221 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:36,221 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:07:36,387 | Common.java | 76 | List Of Sidebar Button is displayed
+ INFO | 2022-12-23 12:07:36,392 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:36,392 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:36,407 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:36,435 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:37,436 | Common.java | 76 | Parsing Locator: List Of Sidebar Button#xpath=//div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:07:37,436 | Common.java | 76 | Desktop_Chrome - Locator Description : List Of Sidebar Button
+ INFO | 2022-12-23 12:07:37,436 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:37,436 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:07:37,948 | Common.java | 76 | Actions is validated and clicked
+ INFO | 2022-12-23 12:07:37,954 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:37,954 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:37,967 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:38,052 | Common.java | 76 | Parsing Locator: Actions DropDown#xpath=//ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:07:38,053 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions DropDown
+ INFO | 2022-12-23 12:07:38,053 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:38,053 | Common.java | 76 | Desktop_Chrome - Locator: //ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:07:38,190 | Common.java | 76 | Parsing Locator: Actions DropDown#xpath=//ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:07:38,190 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions DropDown
+ INFO | 2022-12-23 12:07:38,190 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:38,191 | Common.java | 76 | Desktop_Chrome - Locator: //ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:07:38,346 | Common.java | 76 | Actions DropDown is displayed
+ INFO | 2022-12-23 12:07:38,351 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:38,352 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:38,364 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:38,390 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:39,402 | Common.java | 76 | Parsing Locator: Actions DropDown#xpath=//ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:07:39,403 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions DropDown
+ INFO | 2022-12-23 12:07:39,403 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:39,403 | Common.java | 76 | Desktop_Chrome - Locator: //ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:07:39,942 | Common.java | 76 | Add New Listing is validated and clicked
+ INFO | 2022-12-23 12:07:39,949 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:39,949 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:39,962 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:40,052 | Common.java | 76 | Parsing Locator: Add New Listing Dialog Box#xpath=//div[@id='modal-add-admin-user']//h4[text()='Add New Listing']
+ INFO | 2022-12-23 12:07:40,052 | Common.java | 76 | Desktop_Chrome - Locator Description : Add New Listing Dialog Box
+ INFO | 2022-12-23 12:07:40,053 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:40,053 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//h4[text()='Add New Listing']
+ INFO | 2022-12-23 12:07:40,198 | Common.java | 76 | Parsing Locator: Add New Listing Dialog Box#xpath=//div[@id='modal-add-admin-user']//h4[text()='Add New Listing']
+ INFO | 2022-12-23 12:07:40,198 | Common.java | 76 | Desktop_Chrome - Locator Description : Add New Listing Dialog Box
+ INFO | 2022-12-23 12:07:40,198 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:40,198 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//h4[text()='Add New Listing']
+ INFO | 2022-12-23 12:07:40,371 | Common.java | 76 | Add New Listing Dialog Box is displayed
+ INFO | 2022-12-23 12:07:40,378 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:40,378 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:40,393 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:40,435 | Common.java | 76 | Successfully navigate to Add New Listing Page
+ INFO | 2022-12-23 12:07:40,443 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:40,444 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:40,457 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:40,485 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:41,491 | Common.java | 76 | Parsing Locator:  select Menus Items#xpath=//label[text()='Salutation']//following::select//option[normalize-space(text())='Mr']
+ INFO | 2022-12-23 12:07:41,492 | Common.java | 76 | Desktop_Chrome - Locator Description :  select Menus Items
+ INFO | 2022-12-23 12:07:41,492 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:41,492 | Common.java | 76 | Desktop_Chrome - Locator: //label[text()='Salutation']//following::select//option[normalize-space(text())='Mr']
+ INFO | 2022-12-23 12:07:41,736 | Common.java | 76 | Mr is validated and clicked
+ INFO | 2022-12-23 12:07:41,741 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:41,741 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:41,753 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:41,837 | Common.java | 76 | Parsing Locator: Add Listing Close button#xpath=//div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:07:41,837 | Common.java | 76 | Desktop_Chrome - Locator Description : Add Listing Close button
+ INFO | 2022-12-23 12:07:41,837 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:41,837 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:07:41,979 | Common.java | 76 | Parsing Locator: Add Listing Close button#xpath=//div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:07:41,979 | Common.java | 76 | Desktop_Chrome - Locator Description : Add Listing Close button
+ INFO | 2022-12-23 12:07:41,979 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:41,979 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:07:42,137 | Common.java | 76 | Add Listing Close button is displayed
+ INFO | 2022-12-23 12:07:42,143 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:42,143 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:42,155 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:42,242 | Common.java | 76 | Parsing Locator: Add Listing Close button#xpath=//div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:07:42,242 | Common.java | 76 | Desktop_Chrome - Locator Description : Add Listing Close button
+ INFO | 2022-12-23 12:07:42,243 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:42,243 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:07:42,446 | Common.java | 76 | Click on: Add Listing Close button
+ INFO | 2022-12-23 12:07:42,452 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:42,453 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:42,469 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:42,629 | Common.java | 76 | Parsing Locator: Profile Icon#xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:42,629 | Common.java | 76 | Desktop_Chrome - Locator Description : Profile Icon
+ INFO | 2022-12-23 12:07:42,629 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:42,629 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:42,785 | Common.java | 76 | Parsing Locator: Profile Icon#xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:42,786 | Common.java | 76 | Desktop_Chrome - Locator Description : Profile Icon
+ INFO | 2022-12-23 12:07:42,786 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:42,787 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:42,959 | Common.java | 76 | Profile Icon is displayed
+ INFO | 2022-12-23 12:07:42,964 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:42,964 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:42,981 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:43,015 | Common.java | 76 | Successfully navigate to Home Page
+ INFO | 2022-12-23 12:07:43,023 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:43,024 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:43,040 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:43,115 | Common.java | 76 | Parsing Locator: logout button #xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:43,115 | Common.java | 76 | Desktop_Chrome - Locator Description : logout button 
+ INFO | 2022-12-23 12:07:43,115 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:43,116 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:43,347 | Common.java | 76 | Parsing Locator: logout button #xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:43,348 | Common.java | 76 | Desktop_Chrome - Locator Description : logout button 
+ INFO | 2022-12-23 12:07:43,348 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:43,348 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:43,487 | Common.java | 76 | Parsing Locator: logout button #xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:43,487 | Common.java | 76 | Desktop_Chrome - Locator Description : logout button 
+ INFO | 2022-12-23 12:07:43,488 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:43,488 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:43,629 | Common.java | 76 | logout button  is displayed
+ INFO | 2022-12-23 12:07:43,634 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:43,635 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:43,646 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:43,671 | Common.java | 76 | Displayed the LogOut menu
+ INFO | 2022-12-23 12:07:43,675 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:43,676 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:43,690 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:43,792 | Common.java | 76 | Parsing Locator: logout button #xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:43,792 | Common.java | 76 | Desktop_Chrome - Locator Description : logout button 
+ INFO | 2022-12-23 12:07:43,792 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:43,793 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:07:43,981 | Common.java | 76 | Click on: logout button 
+ INFO | 2022-12-23 12:07:43,986 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:43,987 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:43,998 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:44,086 | Common.java | 76 | Successfully click on logOut menu
+ INFO | 2022-12-23 12:07:44,092 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:44,093 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:44,105 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:44,200 | Common.java | 76 | Parsing Locator: select logout button #xpath=//ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:07:44,200 | Common.java | 76 | Desktop_Chrome - Locator Description : select logout button 
+ INFO | 2022-12-23 12:07:44,201 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:44,201 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:07:44,475 | Common.java | 76 | Parsing Locator: select logout button #xpath=//ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:07:44,475 | Common.java | 76 | Desktop_Chrome - Locator Description : select logout button 
+ INFO | 2022-12-23 12:07:44,475 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:44,476 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:07:44,616 | Common.java | 76 | Parsing Locator: select logout button #xpath=//ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:07:44,617 | Common.java | 76 | Desktop_Chrome - Locator Description : select logout button 
+ INFO | 2022-12-23 12:07:44,617 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:44,617 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:07:44,777 | Common.java | 76 | select logout button  is displayed
+ INFO | 2022-12-23 12:07:44,781 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:44,782 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:44,794 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:44,816 | Common.java | 76 | Displayed the LogOut Button
+ INFO | 2022-12-23 12:07:44,820 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:44,821 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:44,832 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:44,913 | Common.java | 76 | Parsing Locator: select logout button #xpath=//ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:07:44,913 | Common.java | 76 | Desktop_Chrome - Locator Description : select logout button 
+ INFO | 2022-12-23 12:07:44,913 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:44,913 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:07:52,823 | Common.java | 76 | Click on: select logout button 
+ INFO | 2022-12-23 12:07:52,828 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:52,828 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:52,842 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:52,920 | Common.java | 76 | Successfully click on logOut button
+ INFO | 2022-12-23 12:07:52,925 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:52,925 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:52,939 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:53,032 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:53,032 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:07:53,032 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:53,032 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:53,299 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:53,300 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:07:53,300 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:53,300 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:53,432 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:53,432 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:07:53,432 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:53,432 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:53,631 | Common.java | 76 | Login Button is displayed
+ INFO | 2022-12-23 12:07:53,636 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:53,636 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:53,648 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:53,677 | Common.java | 76 | successfully logOut the Application
+ INFO | 2022-12-23 12:07:53,682 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:53,682 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:53,695 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:53,719 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:07:54,731 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2022-12-23 12:07:54,735 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Hatcher Automation Execution Report
+ INFO | 2022-12-23 12:07:54,748 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:07:54,776 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:07:54,808 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-12-23 12:07:54,811 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-23 12:07:54,814 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:07:54,827 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-23 12:07:54,829 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-23 12:07:54,831 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-23 12:07:54,833 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-23 12:07:54,833 | Common.java | 76 | Element time out set
+ INFO | 2022-12-23 12:07:54,834 | Common.java | 76 | ############# Start of Test Case[HTCHR_AC_SCR_001_TC_003] : Verify Salutation field in the Add contact page has default value as per design. #############
+ INFO | 2022-12-23 12:07:54,838 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:54,838 | Common.java | 76 | Test Case tag is created
+ INFO | 2022-12-23 12:07:54,853 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:54,855 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:07:54,954 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:07:55,058 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:07:55,163 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:07:55,262 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:07:55,365 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-23 12:07:55,519 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:55,519 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:07:55,519 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:55,519 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:55,802 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:55,802 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:07:55,802 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:55,802 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:55,939 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:55,940 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:07:55,940 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:55,940 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:56,095 | Common.java | 76 | Login Button is displayed
+ INFO | 2022-12-23 12:07:56,100 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:56,101 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:56,117 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:56,144 | Common.java | 76 | Main page is lunched successfully
+ INFO | 2022-12-23 12:07:56,148 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:56,149 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:56,165 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:56,249 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:56,249 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:07:56,250 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:56,250 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:07:59,637 | Common.java | 76 | Click on: Login Button
+ INFO | 2022-12-23 12:07:59,643 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:59,643 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:59,659 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:59,772 | Common.java | 76 | Successfully click on Login Page
+ INFO | 2022-12-23 12:07:59,777 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:07:59,777 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:07:59,790 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:07:59,807 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:59,807 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:07:59,807 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:59,807 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:59,874 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:07:59,875 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:07:59,875 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:07:59,875 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:00,115 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:00,116 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:08:00,116 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:00,116 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:00,275 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:00,275 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:08:00,275 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:00,275 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:00,430 | Common.java | 76 | Sucessfully got the text 'Welcome back' for Login Page Heading
+ INFO | 2022-12-23 12:08:00,491 | Common.java | 76 | Welcome back is Displayed
+ INFO | 2022-12-23 12:08:00,496 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:00,496 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:00,512 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:00,528 | Common.java | 76 | Parsing Locator: Please login Text#xpath=//span[text()='Please login']
+ INFO | 2022-12-23 12:08:00,529 | Common.java | 76 | Desktop_Chrome - Locator Description : Please login Text
+ INFO | 2022-12-23 12:08:00,529 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:00,529 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Please login']
+ INFO | 2022-12-23 12:08:00,590 | Common.java | 76 | Parsing Locator: Please login Text#xpath=//span[text()='Please login']
+ INFO | 2022-12-23 12:08:00,590 | Common.java | 76 | Desktop_Chrome - Locator Description : Please login Text
+ INFO | 2022-12-23 12:08:00,590 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:00,590 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Please login']
+ INFO | 2022-12-23 12:08:00,801 | Common.java | 76 | Parsing Locator: Please login Text#xpath=//span[text()='Please login']
+ INFO | 2022-12-23 12:08:00,802 | Common.java | 76 | Desktop_Chrome - Locator Description : Please login Text
+ INFO | 2022-12-23 12:08:00,802 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:00,802 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Please login']
+ INFO | 2022-12-23 12:08:00,922 | Common.java | 76 | Parsing Locator: Please login Text#xpath=//span[text()='Please login']
+ INFO | 2022-12-23 12:08:00,922 | Common.java | 76 | Desktop_Chrome - Locator Description : Please login Text
+ INFO | 2022-12-23 12:08:00,922 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:00,922 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Please login']
+ INFO | 2022-12-23 12:08:01,061 | Common.java | 76 | Sucessfully got the text 'Please login' for Please login Text
+ INFO | 2022-12-23 12:08:01,152 | Common.java | 76 | Please login is Displayed
+ INFO | 2022-12-23 12:08:01,161 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:01,162 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:01,187 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:01,210 | Common.java | 76 | Parsing Locator: Log in via Text#xpath=//div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:08:01,210 | Common.java | 76 | Desktop_Chrome - Locator Description : Log in via Text
+ INFO | 2022-12-23 12:08:01,210 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:01,211 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:08:01,268 | Common.java | 76 | Parsing Locator: Log in via Text#xpath=//div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:08:01,269 | Common.java | 76 | Desktop_Chrome - Locator Description : Log in via Text
+ INFO | 2022-12-23 12:08:01,269 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:01,269 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:08:01,497 | Common.java | 76 | Parsing Locator: Log in via Text#xpath=//div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:08:01,497 | Common.java | 76 | Desktop_Chrome - Locator Description : Log in via Text
+ INFO | 2022-12-23 12:08:01,497 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:01,497 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:08:01,619 | Common.java | 76 | Parsing Locator: Log in via Text#xpath=//div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:08:01,619 | Common.java | 76 | Desktop_Chrome - Locator Description : Log in via Text
+ INFO | 2022-12-23 12:08:01,619 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:01,619 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Log in via')]
+ INFO | 2022-12-23 12:08:01,764 | Common.java | 76 | Sucessfully got the text 'Log in via...' for Log in via Text
+ INFO | 2022-12-23 12:08:01,817 | Common.java | 76 | Log in via... is Displayed
+ INFO | 2022-12-23 12:08:01,823 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:01,823 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:01,838 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:01,856 | Common.java | 76 | Parsing Locator: Google button#xpath=//img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:08:01,856 | Common.java | 76 | Desktop_Chrome - Locator Description : Google button
+ INFO | 2022-12-23 12:08:01,856 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:01,856 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:08:01,911 | Common.java | 76 | Parsing Locator: Google button#xpath=//img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:08:01,911 | Common.java | 76 | Desktop_Chrome - Locator Description : Google button
+ INFO | 2022-12-23 12:08:01,912 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:01,912 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:08:02,133 | Common.java | 76 | Parsing Locator: Google button#xpath=//img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:08:02,133 | Common.java | 76 | Desktop_Chrome - Locator Description : Google button
+ INFO | 2022-12-23 12:08:02,133 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:02,133 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:08:02,254 | Common.java | 76 | Parsing Locator: Google button#xpath=//img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:08:02,255 | Common.java | 76 | Desktop_Chrome - Locator Description : Google button
+ INFO | 2022-12-23 12:08:02,255 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:02,255 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-google']/parent::a
+ INFO | 2022-12-23 12:08:02,407 | Common.java | 76 | Sucessfully got the text '  Google' for Google button
+ INFO | 2022-12-23 12:08:02,466 | Common.java | 76 |   Google is Displayed
+ INFO | 2022-12-23 12:08:02,471 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:02,471 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:02,486 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:02,504 | Common.java | 76 | Parsing Locator: linkedin button#xpath=//img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:08:02,504 | Common.java | 76 | Desktop_Chrome - Locator Description : linkedin button
+ INFO | 2022-12-23 12:08:02,504 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:02,504 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:08:02,563 | Common.java | 76 | Parsing Locator: linkedin button#xpath=//img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:08:02,564 | Common.java | 76 | Desktop_Chrome - Locator Description : linkedin button
+ INFO | 2022-12-23 12:08:02,564 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:02,564 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:08:02,786 | Common.java | 76 | Parsing Locator: linkedin button#xpath=//img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:08:02,786 | Common.java | 76 | Desktop_Chrome - Locator Description : linkedin button
+ INFO | 2022-12-23 12:08:02,786 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:02,786 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:08:02,926 | Common.java | 76 | Parsing Locator: linkedin button#xpath=//img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:08:02,926 | Common.java | 76 | Desktop_Chrome - Locator Description : linkedin button
+ INFO | 2022-12-23 12:08:02,926 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:02,926 | Common.java | 76 | Desktop_Chrome - Locator: //img[@class='login-icon-linkedin']/parent::a
+ INFO | 2022-12-23 12:08:03,073 | Common.java | 76 | Sucessfully got the text '' for linkedin button
+ INFO | 2022-12-23 12:08:03,143 | Common.java | 76 |  is Displayed
+ INFO | 2022-12-23 12:08:03,148 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:03,148 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:03,195 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:03,213 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:03,214 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:03,214 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:03,215 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:03,279 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:03,280 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:03,280 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:03,280 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:03,441 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:04,441 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:04,441 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:04,443 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:04,443 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:04,588 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:05,595 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:05,596 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:05,596 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:05,597 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:05,772 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:06,784 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:06,785 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:06,785 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:06,786 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:06,965 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:07,969 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:07,969 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:07,969 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:07,969 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:08,130 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:09,135 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:09,135 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:09,135 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:09,136 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:09,289 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:10,293 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:10,293 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:10,294 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:10,294 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:10,485 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:11,486 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:11,486 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:11,487 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:11,487 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:11,651 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:12,666 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:12,667 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:12,667 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:12,668 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:12,842 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:13,857 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:13,857 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:13,857 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:13,858 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:14,055 | Common.java | 76 | Waiting for 1 seconds...
+ERROR | 2022-12-23 12:08:15,355 | Common.java | 84 | Forgot Password Text element is not displayed within 10 timeouts
+ INFO | 2022-12-23 12:08:15,361 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:15,361 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:15,376 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:15,398 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-12-23 12:08:15,399 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:08:15,401 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:08:15,403 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:08:15,404 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-23 12:08:15,406 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 3
+ INFO | 2022-12-23 12:08:15,458 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:15,459 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:15,459 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:15,459 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:15,585 | Common.java | 76 | Parsing Locator: Forgot Password Text#xpath=//div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:15,585 | Common.java | 76 | Desktop_Chrome - Locator Description : Forgot Password Text
+ INFO | 2022-12-23 12:08:15,586 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:15,586 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(text(),'Forgot password')]
+ INFO | 2022-12-23 12:08:15,717 | Common.java | 76 | Sucessfully got the text '' for Forgot Password Text
+ INFO | 2022-12-23 12:08:15,785 | Common.java | 76 |  is Displayed
+ INFO | 2022-12-23 12:08:15,790 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:15,790 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:15,805 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:15,874 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:15,874 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:08:15,875 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:15,875 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:16,166 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:16,166 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:08:16,167 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:16,167 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:16,290 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:16,290 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-23 12:08:16,290 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:16,290 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-23 12:08:16,444 | Common.java | 76 | Login Page Heading is displayed
+ INFO | 2022-12-23 12:08:16,449 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:16,449 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:16,460 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:16,480 | Common.java | 76 | Login page is lunched successfully
+ INFO | 2022-12-23 12:08:16,485 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:16,486 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:16,499 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:16,567 | Common.java | 76 | Parsing Locator: Email Address Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-23 12:08:16,567 | Common.java | 76 | Desktop_Chrome - Locator Description : Email Address Textbox in Login Form
+ INFO | 2022-12-23 12:08:16,567 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:16,568 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-23 12:08:17,158 | Common.java | 76 | Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form
+ INFO | 2022-12-23 12:08:17,163 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:17,164 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:17,177 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:17,315 | Common.java | 76 | Parsing Locator: Password Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-23 12:08:17,316 | Common.java | 76 | Desktop_Chrome - Locator Description : Password Textbox in Login Form
+ INFO | 2022-12-23 12:08:17,316 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:17,316 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-23 12:08:17,801 | Common.java | 76 | Type 'Indium@123' in: Password Textbox in Login Form
+ INFO | 2022-12-23 12:08:17,808 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:17,809 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:17,823 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:17,971 | Common.java | 76 | Parsing Locator: Login Button in Login Form#xpath=//div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-23 12:08:17,971 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button in Login Form
+ INFO | 2022-12-23 12:08:17,971 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:17,971 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-23 12:08:18,164 | Common.java | 76 | Click on: Login Button in Login Form
+ INFO | 2022-12-23 12:08:18,169 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:18,169 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:18,186 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:18,329 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:18,329 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:08:18,329 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:18,330 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:18,392 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-23 12:08:19,399 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:19,399 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:08:19,399 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:19,399 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:19,476 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-23 12:08:20,478 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:20,478 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:08:20,478 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:20,478 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:26,552 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:26,552 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:08:26,552 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:26,552 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:26,691 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:26,691 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-23 12:08:26,691 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:26,691 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-23 12:08:26,849 | Common.java | 76 | verify Navigate to login page is displayed
+ INFO | 2022-12-23 12:08:26,854 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:26,855 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:26,867 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:26,885 | Common.java | 76 | Successfully logedIn 
+ INFO | 2022-12-23 12:08:26,890 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:26,890 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:26,903 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:26,973 | Common.java | 76 | Parsing Locator: List Of Sidebar Button#xpath=//div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:08:26,973 | Common.java | 76 | Desktop_Chrome - Locator Description : List Of Sidebar Button
+ INFO | 2022-12-23 12:08:26,973 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:26,973 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:08:27,116 | Common.java | 76 | Parsing Locator: List Of Sidebar Button#xpath=//div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:08:27,116 | Common.java | 76 | Desktop_Chrome - Locator Description : List Of Sidebar Button
+ INFO | 2022-12-23 12:08:27,116 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:27,116 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:08:27,280 | Common.java | 76 | List Of Sidebar Button is displayed
+ INFO | 2022-12-23 12:08:27,284 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:27,285 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:27,301 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:27,322 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:28,333 | Common.java | 76 | Parsing Locator: List Of Sidebar Button#xpath=//div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:08:28,333 | Common.java | 76 | Desktop_Chrome - Locator Description : List Of Sidebar Button
+ INFO | 2022-12-23 12:08:28,333 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:28,333 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='sidebar-link-left']//span
+ INFO | 2022-12-23 12:08:28,749 | Common.java | 76 | Actions is validated and clicked
+ INFO | 2022-12-23 12:08:28,754 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:28,755 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:28,770 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:28,849 | Common.java | 76 | Parsing Locator: Actions DropDown#xpath=//ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:08:28,849 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions DropDown
+ INFO | 2022-12-23 12:08:28,849 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:28,849 | Common.java | 76 | Desktop_Chrome - Locator: //ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:08:28,978 | Common.java | 76 | Parsing Locator: Actions DropDown#xpath=//ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:08:28,979 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions DropDown
+ INFO | 2022-12-23 12:08:28,979 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:28,979 | Common.java | 76 | Desktop_Chrome - Locator: //ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:08:29,138 | Common.java | 76 | Actions DropDown is displayed
+ INFO | 2022-12-23 12:08:29,142 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:29,143 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:29,156 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:29,176 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:30,179 | Common.java | 76 | Parsing Locator: Actions DropDown#xpath=//ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:08:30,179 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions DropDown
+ INFO | 2022-12-23 12:08:30,179 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:30,179 | Common.java | 76 | Desktop_Chrome - Locator: //ul[@class='dropdown-menu bg-light dropdown-add-actions show']//li
+ INFO | 2022-12-23 12:08:30,734 | Common.java | 76 | Add New Listing is validated and clicked
+ INFO | 2022-12-23 12:08:30,739 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:30,740 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:30,755 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:30,833 | Common.java | 76 | Parsing Locator: Add New Listing Dialog Box#xpath=//div[@id='modal-add-admin-user']//h4[text()='Add New Listing']
+ INFO | 2022-12-23 12:08:30,833 | Common.java | 76 | Desktop_Chrome - Locator Description : Add New Listing Dialog Box
+ INFO | 2022-12-23 12:08:30,833 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:30,833 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//h4[text()='Add New Listing']
+ INFO | 2022-12-23 12:08:31,000 | Common.java | 76 | Parsing Locator: Add New Listing Dialog Box#xpath=//div[@id='modal-add-admin-user']//h4[text()='Add New Listing']
+ INFO | 2022-12-23 12:08:31,001 | Common.java | 76 | Desktop_Chrome - Locator Description : Add New Listing Dialog Box
+ INFO | 2022-12-23 12:08:31,001 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:31,001 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//h4[text()='Add New Listing']
+ INFO | 2022-12-23 12:08:31,170 | Common.java | 76 | Add New Listing Dialog Box is displayed
+ INFO | 2022-12-23 12:08:31,175 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:31,176 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:31,192 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:31,219 | Common.java | 76 | Successfully navigate to Add New Listing Page
+ INFO | 2022-12-23 12:08:31,224 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:31,225 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:31,242 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:31,271 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:32,272 | Common.java | 76 | Parsing Locator:  select Menus Items#xpath=//label[text()='Salutation']//following::select//option[normalize-space(text())='Mr']
+ INFO | 2022-12-23 12:08:32,273 | Common.java | 76 | Desktop_Chrome - Locator Description :  select Menus Items
+ INFO | 2022-12-23 12:08:32,273 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:32,273 | Common.java | 76 | Desktop_Chrome - Locator: //label[text()='Salutation']//following::select//option[normalize-space(text())='Mr']
+ INFO | 2022-12-23 12:08:32,502 | Common.java | 76 | Mr is validated and clicked
+ INFO | 2022-12-23 12:08:32,508 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:32,508 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:32,521 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:32,600 | Common.java | 76 | Parsing Locator: Add Listing Close button#xpath=//div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:08:32,601 | Common.java | 76 | Desktop_Chrome - Locator Description : Add Listing Close button
+ INFO | 2022-12-23 12:08:32,601 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:32,601 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:08:32,746 | Common.java | 76 | Parsing Locator: Add Listing Close button#xpath=//div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:08:32,746 | Common.java | 76 | Desktop_Chrome - Locator Description : Add Listing Close button
+ INFO | 2022-12-23 12:08:32,747 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:32,747 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:08:32,904 | Common.java | 76 | Add Listing Close button is displayed
+ INFO | 2022-12-23 12:08:32,909 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:32,909 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:32,923 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:32,991 | Common.java | 76 | Parsing Locator: Add Listing Close button#xpath=//div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:08:32,991 | Common.java | 76 | Desktop_Chrome - Locator Description : Add Listing Close button
+ INFO | 2022-12-23 12:08:32,991 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:32,992 | Common.java | 76 | Desktop_Chrome - Locator: //div[@id='modal-add-admin-user']//a[@class='modal-button-close']
+ INFO | 2022-12-23 12:08:33,217 | Common.java | 76 | Click on: Add Listing Close button
+ INFO | 2022-12-23 12:08:33,223 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:33,223 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:33,239 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:33,414 | Common.java | 76 | Parsing Locator: Profile Icon#xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:33,414 | Common.java | 76 | Desktop_Chrome - Locator Description : Profile Icon
+ INFO | 2022-12-23 12:08:33,415 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:33,416 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:33,555 | Common.java | 76 | Parsing Locator: Profile Icon#xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:33,556 | Common.java | 76 | Desktop_Chrome - Locator Description : Profile Icon
+ INFO | 2022-12-23 12:08:33,556 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:33,556 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:33,743 | Common.java | 76 | Profile Icon is displayed
+ INFO | 2022-12-23 12:08:33,749 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:33,750 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:33,767 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:33,793 | Common.java | 76 | Successfully navigate to Home Page
+ INFO | 2022-12-23 12:08:33,799 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:33,800 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:33,815 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:33,900 | Common.java | 76 | Parsing Locator: logout button #xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:33,901 | Common.java | 76 | Desktop_Chrome - Locator Description : logout button 
+ INFO | 2022-12-23 12:08:33,901 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:33,901 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:34,178 | Common.java | 76 | Parsing Locator: logout button #xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:34,178 | Common.java | 76 | Desktop_Chrome - Locator Description : logout button 
+ INFO | 2022-12-23 12:08:34,178 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:34,178 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:34,315 | Common.java | 76 | Parsing Locator: logout button #xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:34,315 | Common.java | 76 | Desktop_Chrome - Locator Description : logout button 
+ INFO | 2022-12-23 12:08:34,315 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:34,315 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:34,479 | Common.java | 76 | logout button  is displayed
+ INFO | 2022-12-23 12:08:34,483 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:34,483 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:34,497 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:34,520 | Common.java | 76 | Displayed the LogOut menu
+ INFO | 2022-12-23 12:08:34,525 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:34,525 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:34,542 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:34,627 | Common.java | 76 | Parsing Locator: logout button #xpath=//a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:34,627 | Common.java | 76 | Desktop_Chrome - Locator Description : logout button 
+ INFO | 2022-12-23 12:08:34,628 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:34,628 | Common.java | 76 | Desktop_Chrome - Locator: //a[@id='dropdownUserButton']
+ INFO | 2022-12-23 12:08:34,838 | Common.java | 76 | Click on: logout button 
+ INFO | 2022-12-23 12:08:34,844 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:34,844 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:34,860 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:34,955 | Common.java | 76 | Successfully click on logOut menu
+ INFO | 2022-12-23 12:08:34,959 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:34,959 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:34,974 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:35,058 | Common.java | 76 | Parsing Locator: select logout button #xpath=//ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:08:35,059 | Common.java | 76 | Desktop_Chrome - Locator Description : select logout button 
+ INFO | 2022-12-23 12:08:35,059 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:35,059 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:08:35,361 | Common.java | 76 | Parsing Locator: select logout button #xpath=//ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:08:35,361 | Common.java | 76 | Desktop_Chrome - Locator Description : select logout button 
+ INFO | 2022-12-23 12:08:35,361 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:35,361 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:08:35,505 | Common.java | 76 | Parsing Locator: select logout button #xpath=//ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:08:35,506 | Common.java | 76 | Desktop_Chrome - Locator Description : select logout button 
+ INFO | 2022-12-23 12:08:35,506 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:35,506 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:08:35,660 | Common.java | 76 | select logout button  is displayed
+ INFO | 2022-12-23 12:08:35,665 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:35,665 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:35,678 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:35,695 | Common.java | 76 | Displayed the LogOut Button
+ INFO | 2022-12-23 12:08:35,699 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:35,700 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:35,714 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:35,802 | Common.java | 76 | Parsing Locator: select logout button #xpath=//ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:08:35,802 | Common.java | 76 | Desktop_Chrome - Locator Description : select logout button 
+ INFO | 2022-12-23 12:08:35,803 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:35,803 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-23 12:08:39,100 | Common.java | 76 | Click on: select logout button 
+ INFO | 2022-12-23 12:08:39,106 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:39,106 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:39,122 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:39,207 | Common.java | 76 | Successfully click on logOut button
+ INFO | 2022-12-23 12:08:39,212 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:39,212 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:39,227 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:39,318 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:08:39,319 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:08:39,319 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:39,319 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:08:39,626 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:08:39,626 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:08:39,627 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:39,627 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:08:39,763 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:08:39,764 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-23 12:08:39,764 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-23 12:08:39,764 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-23 12:08:39,916 | Common.java | 76 | Login Button is displayed
+ INFO | 2022-12-23 12:08:39,920 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:39,920 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:39,933 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:39,950 | Common.java | 76 | successfully logOut the Application
+ INFO | 2022-12-23 12:08:39,954 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-23 12:08:39,955 | Common.java | 76 | Test step is created
+ INFO | 2022-12-23 12:08:39,967 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-23 12:08:39,988 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-23 12:08:40,995 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2022-12-23 12:08:40,997 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Hatcher Automation Execution Report
+ INFO | 2022-12-23 12:08:41,006 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:08:41,023 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:08:41,042 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-12-23 12:08:41,043 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-23 12:08:41,045 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:08:41,340 | Common.java | 76 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2022-12-23 12:08:41,351 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-12-23 12:08:41,352 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-23 12:08:41,354 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-23 12:08:41,872 | Common.java | 76 | Cleanup activites...
+ INFO | 2022-12-23 12:08:41,872 | Common.java | 76 | Cleanup activities - Done...
+ INFO | 2022-12-23 12:08:41,873 | Common.java | 76 | ###################################
+ INFO | 2022-12-23 12:08:41,873 | Common.java | 76 | Script Execution Complete
+ INFO | 2022-12-23 12:08:41,873 | Common.java | 76 | ###################################

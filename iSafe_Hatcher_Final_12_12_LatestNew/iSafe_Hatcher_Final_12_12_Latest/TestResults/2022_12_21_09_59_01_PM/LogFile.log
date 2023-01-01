@@ -1,0 +1,40 @@
+ INFO | 2022-12-21 21:59:06,973 | Common.java | 76 | Startup activites...
+ INFO | 2022-12-21 21:59:07,122 | Common.java | 76 | Test Output Directory creation successful :D:\Hatcher\iSafe_Hatcher_Final_12_12_LatestNew\iSafe_Hatcher_Final_12_12_Latest/TestResults/2022_12_21_09_59_01_PM
+ INFO | 2022-12-21 21:59:07,131 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2022-12-21 21:59:08,276 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 21:59:09,638 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 21:59:09,643 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2022-12-21 21:59:09,757 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-21 21:59:09,761 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-21 21:59:11,339 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 21:59:11,414 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 21:59:50,937 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-21 21:59:50,945 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 21:59:50,948 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-21 21:59:50,953 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 21:59:50,953 | Common.java | 76 | Element time out set
+ INFO | 2022-12-21 21:59:50,962 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 21:59:50,966 | Common.java | 76 | Opening Chrome Browser...
+ INFO | 2022-12-21 21:59:50,968 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2022-12-21 21:59:51,035 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2022-12-21 21:59:59,950 | Common.java | 76 | Successfully Maximised Browser Window
+ INFO | 2022-12-21 21:59:59,995 | Common.java | 76 | Browser: Open Successful : chrome
+ INFO | 2022-12-21 21:59:59,995 | Common.java | 76 | Open Browser : chrome
+ INFO | 2022-12-21 21:59:59,998 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 21:59:59,998 | Common.java | 76 | Navigating to URL : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 22:00:07,440 | Common.java | 76 | Navigation Successful : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 22:00:07,441 | Common.java | 76 | Navigate to : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 22:00:07,460 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : ./Logos/Indium-Software-Logo.jpg
+ INFO | 2022-12-21 22:00:07,462 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : ./Logos/client_logo.jpg
+ INFO | 2022-12-21 22:00:07,464 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : ./Logos/Indium-Software-Logo.jpg
+ INFO | 2022-12-21 22:00:07,466 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : ./Logos/client_logo.jpg
+ INFO | 2022-12-21 22:00:07,585 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-21 22:00:07,587 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 22:00:07,589 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-21 22:00:07,591 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 22:00:07,592 | Common.java | 76 | Element time out set
+ INFO | 2022-12-21 22:00:07,592 | Common.java | 76 | ############# Start of Test Case[HTCHR_AC_SCR_001_TC_003] : Verify Salutation field in the Add contact page has default value as per design. #############
+ INFO | 2022-12-21 22:00:07,625 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 22:00:07,628 | Common.java | 76 | Test Case tag is created
+ INFO | 2022-12-21 22:00:07,638 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 22:00:07,643 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls

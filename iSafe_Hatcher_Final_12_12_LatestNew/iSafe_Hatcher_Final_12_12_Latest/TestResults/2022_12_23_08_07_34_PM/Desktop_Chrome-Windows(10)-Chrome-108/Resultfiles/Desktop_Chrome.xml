@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify on clicking Add contact, System displays the provision to input data" id="HTCHR_AC_SCR_001_TC_001"/>
+</Scenario>

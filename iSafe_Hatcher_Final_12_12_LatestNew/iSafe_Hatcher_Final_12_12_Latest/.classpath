@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/couchdb4j-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/ezmorph-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/iSafe_Jar_02042022.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/itextpdf-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/java.awt-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/java.awt-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/java-client-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/json-20090211.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/json-lib.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/json-path-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/jtidy-r872-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/postgresql-9.4-1201.jdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/rest-assured-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/rest-assured-common-4.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Hatcher/iSafe_Hatcher_Final_12_12_LatestNew/iSafe_Hatcher_Final_12_12_Latest/ext/xml-path-4.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

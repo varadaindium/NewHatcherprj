@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver="C:\Windows\chromedriver.exe" -jar ./ext/selenium-server-standalone-3.5.3.jar -role node -hub http://localhost:2222/grid/register -port 3333

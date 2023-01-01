@@ -1,0 +1,840 @@
+ INFO | 2022-12-07 13:27:57,622 | Common.java | 76 | Startup activites...
+ INFO | 2022-12-07 13:27:57,632 | Common.java | 76 | Test Output Directory creation successful :D:\Hatcher_Nijan_11_12\iSafe_Hatcher_Final/TestResults/2022_12_07_01_27_57_PM
+ INFO | 2022-12-07 13:27:57,633 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2022-12-07 13:27:57,929 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-07 13:27:58,328 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-07 13:27:58,331 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2022-12-07 13:27:58,405 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-07 13:27:58,409 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-07 13:27:58,934 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-07 13:27:58,974 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-07 13:28:00,485 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-07 13:28:00,491 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-07 13:28:00,494 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-07 13:28:00,500 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-07 13:28:00,500 | Common.java | 76 | Element time out set
+ INFO | 2022-12-07 13:28:00,510 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-07 13:28:00,517 | Common.java | 76 | Opening Chrome Browser...
+ INFO | 2022-12-07 13:28:00,520 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2022-12-07 13:28:00,587 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2022-12-07 13:28:09,216 | Common.java | 76 | Successfully Maximised Browser Window
+ INFO | 2022-12-07 13:28:09,251 | Common.java | 76 | Browser: Open Successful : chrome
+ INFO | 2022-12-07 13:28:09,252 | Common.java | 76 | Open Browser : chrome
+ INFO | 2022-12-07 13:28:09,261 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-07 13:28:09,262 | Common.java | 76 | Navigating to URL : https://hq.hatcher-staging.com/
+ INFO | 2022-12-07 13:28:17,139 | Common.java | 76 | Navigation Successful : https://hq.hatcher-staging.com/
+ INFO | 2022-12-07 13:28:17,140 | Common.java | 76 | Navigate to : https://hq.hatcher-staging.com/
+ INFO | 2022-12-07 13:28:17,162 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : ./Logos/Indium-Software-Logo.jpg
+ INFO | 2022-12-07 13:28:17,166 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : ./Logos/client_logo.jpg
+ INFO | 2022-12-07 13:28:17,171 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : ./Logos/Indium-Software-Logo.jpg
+ INFO | 2022-12-07 13:28:17,174 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : ./Logos/client_logo.jpg
+ INFO | 2022-12-07 13:28:17,277 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-07 13:28:17,279 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-07 13:28:17,282 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-07 13:28:17,285 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-07 13:28:17,286 | Common.java | 76 | Element time out set
+ INFO | 2022-12-07 13:28:17,286 | Common.java | 76 | ############# Start of Test Case[HTCHR_IS_SCR_004_TC_062_To_075_Test] : Investor Company Page After Login Mandatory Fields Validations #############
+ INFO | 2022-12-07 13:28:17,320 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:17,325 | Common.java | 76 | Test Case tag is created
+ INFO | 2022-12-07 13:28:17,333 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:17,340 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:17,474 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:17,485 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:17,487 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:17,500 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:17,973 | Common.java | 76 | *******************************
+ INFO | 2022-12-07 13:28:17,978 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:17,979 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:17,992 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,040 | Common.java | 76 | Test Execution Started
+ INFO | 2022-12-07 13:28:18,049 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:18,050 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:18,059 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,107 | Common.java | 76 | *******************************
+ INFO | 2022-12-07 13:28:18,116 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:18,117 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:18,145 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,207 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:18,215 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:18,215 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:18,225 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,303 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:18,309 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:18,309 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:18,319 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,368 | Common.java | 76 | *******************************
+ INFO | 2022-12-07 13:28:18,374 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:18,374 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:18,390 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,446 | Common.java | 76 | Data Inputs
+ INFO | 2022-12-07 13:28:18,457 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:18,458 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:18,470 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,529 | Common.java | 76 | *******************************
+ INFO | 2022-12-07 13:28:18,541 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:18,541 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:18,555 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,629 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:18,637 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:18,637 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:18,657 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:18,728 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:18,875 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:18,996 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:19,108 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:19,203 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:19,313 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:19,407 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:19,493 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:19,596 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:19,759 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:19,941 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:20,094 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:20,252 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:20,381 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:20,517 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:20,641 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:20,744 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:20,857 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:20,973 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:21,092 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:21,230 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:21,344 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:21,507 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:21,626 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-07 13:28:21,741 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:21,749 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:21,750 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:21,769 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:21,834 | Common.java | 76 | Admin Mail Id : htchrautomationboss@gmail.com
+ INFO | 2022-12-07 13:28:21,845 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:21,848 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:21,898 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:21,943 | Common.java | 76 | Admin Password : P@@ssw0rd
+ INFO | 2022-12-07 13:28:21,952 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:21,953 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:21,969 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,031 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:22,038 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,039 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,058 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,119 | Common.java | 76 | Page Option : Users
+ INFO | 2022-12-07 13:28:22,134 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,134 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,178 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,238 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:22,249 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,250 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,269 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,332 | Common.java | 76 | Firstname : TestAutomationFirstNameARWXFEONWZ
+ INFO | 2022-12-07 13:28:22,341 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,346 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,374 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,428 | Common.java | 76 | LastName : TestAutomationLastNameCUHVPHVAEU
+ INFO | 2022-12-07 13:28:22,438 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,438 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,466 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,538 | Common.java | 76 | Email Address : hatcherautomation@gmail.com
+ INFO | 2022-12-07 13:28:22,555 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,556 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,588 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,634 | Common.java | 76 | Password : P@ssw0rd
+ INFO | 2022-12-07 13:28:22,641 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,642 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,664 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,699 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:22,717 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,718 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,745 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,787 | Common.java | 76 | Email Server : Gmail
+ INFO | 2022-12-07 13:28:22,811 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,812 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,836 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,889 | Common.java | 76 | Email Id : hatcherautomation@gmail.com
+ INFO | 2022-12-07 13:28:22,894 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:22,895 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:22,933 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:22,996 | Common.java | 76 | Email Password : iovfoitlflstngub
+ INFO | 2022-12-07 13:28:23,006 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:23,006 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:23,135 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:23,188 | Common.java | 76 | Email Subject : Please activate your Hatcher+ account
+ INFO | 2022-12-07 13:28:23,193 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:23,194 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:23,211 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:23,251 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:23,272 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:23,273 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:23,306 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:23,361 | Common.java | 76 | Legal Name : EntrepreneurLegalNameHKWASNDPGL
+ INFO | 2022-12-07 13:28:23,369 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:23,370 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:23,398 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:23,457 | Common.java | 76 | Legal Name 2 : EntrepreneurLegalNameNCVAYYSLNB
+ INFO | 2022-12-07 13:28:23,465 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:23,467 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:23,535 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:23,610 | Common.java | 76 | Legal Name 3 : EntrepreneurLegalNameGQQDHSUCBZ
+ INFO | 2022-12-07 13:28:23,649 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:23,649 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:23,677 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:23,807 | Common.java | 76 | Legal Name 4 : EntrepreneurLegalNameYRFAPNIJCK
+ INFO | 2022-12-07 13:28:23,817 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:23,817 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:23,841 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:23,905 | Common.java | 76 | Website : google.com
+ INFO | 2022-12-07 13:28:23,910 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:23,910 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:23,956 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,040 | Common.java | 76 | City : Chennai
+ INFO | 2022-12-07 13:28:24,060 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,061 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,094 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,176 | Common.java | 76 | Country : India
+ INFO | 2022-12-07 13:28:24,188 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,189 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,220 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,287 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:24,293 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,294 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,310 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,350 | Common.java | 76 | Legal Name Special Characters : udoURJi8Lh
+ INFO | 2022-12-07 13:28:24,360 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,361 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,382 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,426 | Common.java | 76 | Website Special Characters : test123!@#$%&*<>?:"{
+ INFO | 2022-12-07 13:28:24,434 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,435 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,451 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,507 | Common.java | 76 | City Special Characters : test123!@#$%&*<>?:"{
+ INFO | 2022-12-07 13:28:24,512 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,512 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,540 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,574 | Common.java | 76 | Country Special Characters : test123!@#$%&*<>?:"{
+ INFO | 2022-12-07 13:28:24,579 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,579 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,598 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,639 | Common.java | 76 | Legal Name Already Exists : TestLegalname
+ INFO | 2022-12-07 13:28:24,648 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,649 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,661 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,692 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:24,698 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,699 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,712 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,748 | Common.java | 76 | Search Profile : TestAutomationFirstNameARWXFEONWZ
+ INFO | 2022-12-07 13:28:24,754 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,754 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,768 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,799 | Common.java | 76 | Profile Name Full : TestAutomationLastNameCUHVPHVAEU TestAutomationFirstNameARWXFEONWZ
+ INFO | 2022-12-07 13:28:24,805 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,806 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,826 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,872 | Common.java | 76 | Profile Name Full 2 : TestAutomationFirstNameARWXFEONWZ TestAutomationLastNameCUHVPHVAEU
+ INFO | 2022-12-07 13:28:24,883 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,884 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,901 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,939 | Common.java | 76 | Legal Name Space Special Characters : Test123  test.;'[]-!$$%^
+ INFO | 2022-12-07 13:28:24,947 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:24,947 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:24,968 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:24,997 | Common.java | 76 | Website Space Special Characters : Test123  test.;'[]-!$$%^
+ INFO | 2022-12-07 13:28:25,004 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:25,004 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:25,020 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:25,054 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:25,066 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:25,066 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:25,083 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:25,116 | Common.java | 76 | ************************************
+ INFO | 2022-12-07 13:28:25,134 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:25,134 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:25,160 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:25,219 | Common.java | 76 | Execution Steps Started
+ INFO | 2022-12-07 13:28:25,228 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:25,228 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:25,365 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:25,407 | Common.java | 76 | ************************************
+ INFO | 2022-12-07 13:28:25,419 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:25,424 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:25,456 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:25,532 | Common.java | 76 | 
+ INFO | 2022-12-07 13:28:25,538 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:25,539 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:25,606 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:25,751 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-07 13:28:28,450 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:28:28,450 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-07 13:28:28,451 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:28,451 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:28:28,705 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:28:28,705 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-07 13:28:28,706 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:28,706 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:28:28,895 | Common.java | 76 | Main page is displayed
+ INFO | 2022-12-07 13:28:28,903 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:28,903 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:28,931 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:29,010 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:28:29,010 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-07 13:28:29,010 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:29,010 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:28:29,318 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:28:29,318 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-07 13:28:29,318 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:29,318 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:28:33,722 | Common.java | 76 | Click on: Login Button
+ INFO | 2022-12-07 13:28:33,730 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:33,731 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:33,749 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:33,827 | Common.java | 76 | Navigated to the login form.
+ INFO | 2022-12-07 13:28:33,833 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:33,834 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:33,849 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:33,940 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//div[contains(@class,'application-form-container')]//*[contains(text(),'Please login')]
+ INFO | 2022-12-07 13:28:33,940 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-07 13:28:33,940 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:33,941 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//*[contains(text(),'Please login')]
+ INFO | 2022-12-07 13:28:34,150 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//div[contains(@class,'application-form-container')]//*[contains(text(),'Please login')]
+ INFO | 2022-12-07 13:28:34,150 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-07 13:28:34,150 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:34,150 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//*[contains(text(),'Please login')]
+ INFO | 2022-12-07 13:28:34,302 | Common.java | 76 | Login page is displayed
+ INFO | 2022-12-07 13:28:34,307 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:34,308 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:34,328 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:34,399 | Common.java | 76 | Parsing Locator: Email Address Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-07 13:28:34,399 | Common.java | 76 | Desktop_Chrome - Locator Description : Email Address Textbox in Login Form
+ INFO | 2022-12-07 13:28:34,399 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:34,399 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-07 13:28:34,619 | Common.java | 76 | Parsing Locator: Email Address Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-07 13:28:34,620 | Common.java | 76 | Desktop_Chrome - Locator Description : Email Address Textbox in Login Form
+ INFO | 2022-12-07 13:28:34,621 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:34,621 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-07 13:28:35,127 | Common.java | 76 | Type 'htchrautomationboss@gmail.com' in: Email Address Textbox in Login Form
+ INFO | 2022-12-07 13:28:35,133 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:35,134 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:35,150 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:35,198 | Common.java | 76 | email entered successfully.
+ INFO | 2022-12-07 13:28:35,210 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:35,210 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:35,232 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:35,333 | Common.java | 76 | Parsing Locator: Password Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-07 13:28:35,334 | Common.java | 76 | Desktop_Chrome - Locator Description : Password Textbox in Login Form
+ INFO | 2022-12-07 13:28:35,334 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:35,334 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-07 13:28:35,474 | Common.java | 76 | Parsing Locator: Password Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-07 13:28:35,474 | Common.java | 76 | Desktop_Chrome - Locator Description : Password Textbox in Login Form
+ INFO | 2022-12-07 13:28:35,474 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:35,474 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-07 13:28:35,939 | Common.java | 76 | Type 'P@@ssw0rd' in: Password Textbox in Login Form
+ INFO | 2022-12-07 13:28:35,944 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:35,944 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:35,959 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:36,132 | Common.java | 76 | Password entered successfully.
+ INFO | 2022-12-07 13:28:36,136 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:36,136 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:36,202 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:36,339 | Common.java | 76 | Parsing Locator: Login Button in Login Form#xpath=//div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-07 13:28:36,339 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button in Login Form
+ INFO | 2022-12-07 13:28:36,340 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:36,340 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-07 13:28:36,542 | Common.java | 76 | Parsing Locator: Login Button in Login Form#xpath=//div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-07 13:28:36,542 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button in Login Form
+ INFO | 2022-12-07 13:28:36,542 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:36,543 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-07 13:28:36,761 | Common.java | 76 | Click on: Login Button in Login Form
+ INFO | 2022-12-07 13:28:36,769 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:36,770 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:36,801 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:37,073 | Common.java | 76 | Login Form displayed successfully.
+ INFO | 2022-12-07 13:28:37,081 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:37,082 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:37,115 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:37,154 | Common.java | 76 | Login credentials entered successfully.
+ INFO | 2022-12-07 13:28:37,162 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:28:37,167 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:28:37,228 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:28:37,355 | Common.java | 76 | Parsing Locator: Settings Link in Fixed Sidebar#xpath=//nav[contains(@class,'sidebar-shrunk')]//div[contains(@class,'sidebar-link-left')]//a//span[contains(text(),'Settings')]
+ INFO | 2022-12-07 13:28:37,355 | Common.java | 76 | Desktop_Chrome - Locator Description : Settings Link in Fixed Sidebar
+ INFO | 2022-12-07 13:28:37,356 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:37,356 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'sidebar-shrunk')]//div[contains(@class,'sidebar-link-left')]//a//span[contains(text(),'Settings')]
+ INFO | 2022-12-07 13:28:37,467 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-07 13:28:38,475 | Common.java | 76 | Parsing Locator: Settings Link in Fixed Sidebar#xpath=//nav[contains(@class,'sidebar-shrunk')]//div[contains(@class,'sidebar-link-left')]//a//span[contains(text(),'Settings')]
+ INFO | 2022-12-07 13:28:38,476 | Common.java | 76 | Desktop_Chrome - Locator Description : Settings Link in Fixed Sidebar
+ INFO | 2022-12-07 13:28:38,476 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:38,477 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'sidebar-shrunk')]//div[contains(@class,'sidebar-link-left')]//a//span[contains(text(),'Settings')]
+ INFO | 2022-12-07 13:28:38,530 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-07 13:28:39,534 | Common.java | 76 | Parsing Locator: Settings Link in Fixed Sidebar#xpath=//nav[contains(@class,'sidebar-shrunk')]//div[contains(@class,'sidebar-link-left')]//a//span[contains(text(),'Settings')]
+ INFO | 2022-12-07 13:28:39,534 | Common.java | 76 | Desktop_Chrome - Locator Description : Settings Link in Fixed Sidebar
+ INFO | 2022-12-07 13:28:39,534 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:28:39,535 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'sidebar-shrunk')]//div[contains(@class,'sidebar-link-left')]//a//span[contains(text(),'Settings')]
+ INFO | 2022-12-07 13:29:01,007 | Common.java | 76 | Parsing Locator: Settings Link in Fixed Sidebar#xpath=//nav[contains(@class,'sidebar-shrunk')]//div[contains(@class,'sidebar-link-left')]//a//span[contains(text(),'Settings')]
+ INFO | 2022-12-07 13:29:01,007 | Common.java | 76 | Desktop_Chrome - Locator Description : Settings Link in Fixed Sidebar
+ INFO | 2022-12-07 13:29:01,008 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:01,008 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'sidebar-shrunk')]//div[contains(@class,'sidebar-link-left')]//a//span[contains(text(),'Settings')]
+ INFO | 2022-12-07 13:29:01,251 | Common.java | 76 | Click on: Settings Link in Fixed Sidebar
+ INFO | 2022-12-07 13:29:01,258 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:01,259 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:01,320 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:01,477 | Common.java | 76 | Parsing Locator: settings#xpath=//a[contains(text() , 'Settings')]
+ INFO | 2022-12-07 13:29:01,477 | Common.java | 76 | Desktop_Chrome - Locator Description : settings
+ INFO | 2022-12-07 13:29:01,477 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:01,478 | Common.java | 76 | Desktop_Chrome - Locator: //a[contains(text() , 'Settings')]
+ INFO | 2022-12-07 13:29:08,029 | Common.java | 76 | Click on: settings
+ INFO | 2022-12-07 13:29:08,041 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:08,050 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:08,067 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:08,164 | Common.java | 76 | Parsing Locator: Settings Page Heading#xpath=(//div[contains(@class,'section')]//div[contains(@id,'admin-users-header')]//*[contains(text(),'Settings')])[1]
+ INFO | 2022-12-07 13:29:08,164 | Common.java | 76 | Desktop_Chrome - Locator Description : Settings Page Heading
+ INFO | 2022-12-07 13:29:08,164 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:08,164 | Common.java | 76 | Desktop_Chrome - Locator: (//div[contains(@class,'section')]//div[contains(@id,'admin-users-header')]//*[contains(text(),'Settings')])[1]
+ INFO | 2022-12-07 13:29:08,318 | Common.java | 76 | Parsing Locator: Settings Page Heading#xpath=(//div[contains(@class,'section')]//div[contains(@id,'admin-users-header')]//*[contains(text(),'Settings')])[1]
+ INFO | 2022-12-07 13:29:08,319 | Common.java | 76 | Desktop_Chrome - Locator Description : Settings Page Heading
+ INFO | 2022-12-07 13:29:08,319 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:08,319 | Common.java | 76 | Desktop_Chrome - Locator: (//div[contains(@class,'section')]//div[contains(@id,'admin-users-header')]//*[contains(text(),'Settings')])[1]
+ INFO | 2022-12-07 13:29:08,417 | Common.java | 76 | Settings Page is displayed
+ INFO | 2022-12-07 13:29:08,424 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:08,424 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:08,444 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:08,509 | Common.java | 76 | Parsing Locator: Pages Dropdown in Settings Page#xpath=//div[contains(@class,'section')]//div[contains(@id,'admin-users-header')]//select
+ INFO | 2022-12-07 13:29:08,509 | Common.java | 76 | Desktop_Chrome - Locator Description : Pages Dropdown in Settings Page
+ INFO | 2022-12-07 13:29:08,509 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:08,510 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@id,'admin-users-header')]//select
+ INFO | 2022-12-07 13:29:08,674 | Common.java | 76 | Parsing Locator: Pages Dropdown in Settings Page#xpath=//div[contains(@class,'section')]//div[contains(@id,'admin-users-header')]//select
+ INFO | 2022-12-07 13:29:08,674 | Common.java | 76 | Desktop_Chrome - Locator Description : Pages Dropdown in Settings Page
+ INFO | 2022-12-07 13:29:08,674 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:08,674 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@id,'admin-users-header')]//select
+ INFO | 2022-12-07 13:29:12,600 | Common.java | 76 | Select 'Users' from : Pages Dropdown in Settings Page
+ INFO | 2022-12-07 13:29:12,609 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:12,609 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:12,650 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:12,776 | Common.java | 76 | Parsing Locator: Users Tab Active label of Users Page in Settings Page#xpath=//div[contains(@class,'section')]//div[contains(@class,'midnav')]//a[contains(@class,'active') and contains(text(),'users')]
+ INFO | 2022-12-07 13:29:12,780 | Common.java | 76 | Desktop_Chrome - Locator Description : Users Tab Active label of Users Page in Settings Page
+ INFO | 2022-12-07 13:29:12,780 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:12,780 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@class,'midnav')]//a[contains(@class,'active') and contains(text(),'users')]
+ INFO | 2022-12-07 13:29:13,102 | Common.java | 76 | Parsing Locator: Users Tab Active label of Users Page in Settings Page#xpath=//div[contains(@class,'section')]//div[contains(@class,'midnav')]//a[contains(@class,'active') and contains(text(),'users')]
+ INFO | 2022-12-07 13:29:13,102 | Common.java | 76 | Desktop_Chrome - Locator Description : Users Tab Active label of Users Page in Settings Page
+ INFO | 2022-12-07 13:29:13,102 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:13,103 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@class,'midnav')]//a[contains(@class,'active') and contains(text(),'users')]
+ INFO | 2022-12-07 13:29:13,225 | Common.java | 76 | Users Tab of Users Page is displayed in Settings Page
+ INFO | 2022-12-07 13:29:13,232 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:13,232 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:13,248 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:13,306 | Common.java | 76 | Parsing Locator: Users Tab Link in Settings Page#xpath=//div[contains(@class,'section')]//div[contains(@class,'midnav')]//a[contains(text(),'users')]
+ INFO | 2022-12-07 13:29:13,307 | Common.java | 76 | Desktop_Chrome - Locator Description : Users Tab Link in Settings Page
+ INFO | 2022-12-07 13:29:13,307 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:13,307 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@class,'midnav')]//a[contains(text(),'users')]
+ INFO | 2022-12-07 13:29:13,473 | Common.java | 76 | Parsing Locator: Users Tab Link in Settings Page#xpath=//div[contains(@class,'section')]//div[contains(@class,'midnav')]//a[contains(text(),'users')]
+ INFO | 2022-12-07 13:29:13,473 | Common.java | 76 | Desktop_Chrome - Locator Description : Users Tab Link in Settings Page
+ INFO | 2022-12-07 13:29:13,473 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:13,473 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@class,'midnav')]//a[contains(text(),'users')]
+ INFO | 2022-12-07 13:29:13,655 | Common.java | 76 | Click on: Users Tab Link in Settings Page
+ INFO | 2022-12-07 13:29:13,663 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:13,664 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:13,681 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:13,768 | Common.java | 76 | Parsing Locator: Users Tab Section of Users Page in Settings Page#xpath=//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]
+ INFO | 2022-12-07 13:29:13,768 | Common.java | 76 | Desktop_Chrome - Locator Description : Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:29:13,768 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:13,769 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]
+ INFO | 2022-12-07 13:29:13,968 | Common.java | 76 | Parsing Locator: Users Tab Section of Users Page in Settings Page#xpath=//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]
+ INFO | 2022-12-07 13:29:13,968 | Common.java | 76 | Desktop_Chrome - Locator Description : Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:29:13,968 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:13,969 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]
+ INFO | 2022-12-07 13:29:14,089 | Common.java | 76 | Users Section of Users Tab of Users Page is displayed in Settings Page
+ INFO | 2022-12-07 13:29:14,095 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:14,095 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:14,109 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:14,165 | Common.java | 76 | Parsing Locator: Search Textbox in Users Tab Section of Users Page in Settings Page#xpath=(//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//input[contains(@placeholder,'Search')])[1]
+ INFO | 2022-12-07 13:29:14,166 | Common.java | 76 | Desktop_Chrome - Locator Description : Search Textbox in Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:29:14,166 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:14,166 | Common.java | 76 | Desktop_Chrome - Locator: (//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//input[contains(@placeholder,'Search')])[1]
+ INFO | 2022-12-07 13:29:14,305 | Common.java | 76 | Parsing Locator: Search Textbox in Users Tab Section of Users Page in Settings Page#xpath=(//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//input[contains(@placeholder,'Search')])[1]
+ INFO | 2022-12-07 13:29:14,305 | Common.java | 76 | Desktop_Chrome - Locator Description : Search Textbox in Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:29:14,306 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:14,306 | Common.java | 76 | Desktop_Chrome - Locator: (//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//input[contains(@placeholder,'Search')])[1]
+ INFO | 2022-12-07 13:29:14,784 | Common.java | 76 | Type 'hatcherautomation@gmail.com' in: Search Textbox in Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:29:14,789 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:14,789 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:14,802 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:14,853 | Common.java | 76 | Parsing Locator: No User Accounts Found#xpath=//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//p[contains(text(),'No user accounts found')]
+ INFO | 2022-12-07 13:29:14,853 | Common.java | 76 | Desktop_Chrome - Locator Description : No User Accounts Found
+ INFO | 2022-12-07 13:29:14,853 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:14,854 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//p[contains(text(),'No user accounts found')]
+ INFO | 2022-12-07 13:29:59,946 | Common.java | 76 | hatcherautomation@gmail.com User name or email address is already registered in application
+ INFO | 2022-12-07 13:29:59,952 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:29:59,953 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:29:59,965 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:29:59,995 | Common.java | 76 | Parsing Locator: All Users Found In Search Result#xpath=//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//div[contains(@id,'users-table')]//tr
+ INFO | 2022-12-07 13:29:59,996 | Common.java | 76 | Desktop_Chrome - Locator Description : All Users Found In Search Result
+ INFO | 2022-12-07 13:29:59,996 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:29:59,996 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//div[contains(@id,'users-table')]//tr
+ INFO | 2022-12-07 13:30:00,091 | Common.java | 76 | Parsing Locator: User #xpath=//div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//div[contains(@id,'users-table')]//tr[1]//td[4]//a[contains(@data-toggle,'dropdown')]
+ INFO | 2022-12-07 13:30:00,092 | Common.java | 76 | Desktop_Chrome - Locator Description : User 
+ INFO | 2022-12-07 13:30:00,093 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:00,093 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'section')]//div[contains(@id,'admin-user-page')]//div[contains(@id,'users-table')]//tr[1]//td[4]//a[contains(@data-toggle,'dropdown')]
+ INFO | 2022-12-07 13:30:00,241 | Common.java | 76 | Click on: User 
+ INFO | 2022-12-07 13:30:00,247 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:00,248 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:00,264 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:00,340 | Common.java | 76 | Parsing Locator: User Action List in Users Tab Section of Users Page in Settings Page#xpath=//ul[contains(@aria-labelledby,'dropdownMenuButton') and contains(@class,'dropdown show')]
+ INFO | 2022-12-07 13:30:00,340 | Common.java | 76 | Desktop_Chrome - Locator Description : User Action List in Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:00,341 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:00,341 | Common.java | 76 | Desktop_Chrome - Locator: //ul[contains(@aria-labelledby,'dropdownMenuButton') and contains(@class,'dropdown show')]
+ INFO | 2022-12-07 13:30:00,496 | Common.java | 76 | Parsing Locator: User Action List in Users Tab Section of Users Page in Settings Page#xpath=//ul[contains(@aria-labelledby,'dropdownMenuButton') and contains(@class,'dropdown show')]
+ INFO | 2022-12-07 13:30:00,496 | Common.java | 76 | Desktop_Chrome - Locator Description : User Action List in Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:00,496 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:00,496 | Common.java | 76 | Desktop_Chrome - Locator: //ul[contains(@aria-labelledby,'dropdownMenuButton') and contains(@class,'dropdown show')]
+ INFO | 2022-12-07 13:30:00,581 | Common.java | 76 | User Toggle Icon Options is displayed
+ INFO | 2022-12-07 13:30:00,586 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:00,586 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:00,605 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:00,670 | Common.java | 76 | Parsing Locator: Delete User Link in User Action List of Users Tab Section of Users Page in Settings Page#xpath=//ul[contains(@aria-labelledby,'dropdownMenuButton') and contains(@class,'dropdown show')]//li//a[contains(text(),'Delete User')]
+ INFO | 2022-12-07 13:30:00,670 | Common.java | 76 | Desktop_Chrome - Locator Description : Delete User Link in User Action List of Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:00,670 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:00,670 | Common.java | 76 | Desktop_Chrome - Locator: //ul[contains(@aria-labelledby,'dropdownMenuButton') and contains(@class,'dropdown show')]//li//a[contains(text(),'Delete User')]
+ INFO | 2022-12-07 13:30:00,812 | Common.java | 76 | Click on: Delete User Link in User Action List of Users Tab Section of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:00,818 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:00,819 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:00,871 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:01,033 | Common.java | 76 | Parsing Locator: Delete User or Staff Dialog Window of Users Page in Settings Page#xpath=(//div[contains(@id,'modal-delete-admin-user')])[1]//div[contains(@class,'modal-content')]
+ INFO | 2022-12-07 13:30:01,033 | Common.java | 76 | Desktop_Chrome - Locator Description : Delete User or Staff Dialog Window of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:01,033 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:01,034 | Common.java | 76 | Desktop_Chrome - Locator: (//div[contains(@id,'modal-delete-admin-user')])[1]//div[contains(@class,'modal-content')]
+ INFO | 2022-12-07 13:30:01,305 | Common.java | 76 | Parsing Locator: Delete Confirmation Alert#xpath=(//div[contains(@id,'modal-delete-admin-user')])[1]//div[contains(@class,'modal-content')]
+ INFO | 2022-12-07 13:30:01,305 | Common.java | 76 | Desktop_Chrome - Locator Description : Delete Confirmation Alert
+ INFO | 2022-12-07 13:30:01,306 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:01,306 | Common.java | 76 | Desktop_Chrome - Locator: (//div[contains(@id,'modal-delete-admin-user')])[1]//div[contains(@class,'modal-content')]
+ INFO | 2022-12-07 13:30:01,432 | Common.java | 76 | Delete User Confirm Dialog window is displayed
+ INFO | 2022-12-07 13:30:01,437 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:01,437 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:01,450 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:01,504 | Common.java | 76 | Parsing Locator: Delete Button in Delete User or Staff Dialog Window of Users Page in Settings Page#xpath=(//div[contains(@id,'modal-delete-admin-user')])[1]//div[contains(@class,'modal-content')]//button[contains(text(),'Delete')]
+ INFO | 2022-12-07 13:30:01,504 | Common.java | 76 | Desktop_Chrome - Locator Description : Delete Button in Delete User or Staff Dialog Window of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:01,504 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:01,504 | Common.java | 76 | Desktop_Chrome - Locator: (//div[contains(@id,'modal-delete-admin-user')])[1]//div[contains(@class,'modal-content')]//button[contains(text(),'Delete')]
+ INFO | 2022-12-07 13:30:01,639 | Common.java | 76 | Click on: Delete Button in Delete User or Staff Dialog Window of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:01,644 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:01,645 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:01,656 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:01,718 | Common.java | 76 | Parsing Locator: User or Staff Deleted Success Message of Users Page in Settings Page#xpath=//div[contains(@class,'icon-success')]//div[contains(text(),' User Profile deleted successfully')]
+ INFO | 2022-12-07 13:30:01,718 | Common.java | 76 | Desktop_Chrome - Locator Description : User or Staff Deleted Success Message of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:01,719 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:01,719 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'icon-success')]//div[contains(text(),' User Profile deleted successfully')]
+ INFO | 2022-12-07 13:30:01,779 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-07 13:30:02,791 | Common.java | 76 | Parsing Locator: User or Staff Deleted Success Message of Users Page in Settings Page#xpath=//div[contains(@class,'icon-success')]//div[contains(text(),' User Profile deleted successfully')]
+ INFO | 2022-12-07 13:30:02,793 | Common.java | 76 | Desktop_Chrome - Locator Description : User or Staff Deleted Success Message of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:02,793 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:02,793 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'icon-success')]//div[contains(text(),' User Profile deleted successfully')]
+ INFO | 2022-12-07 13:30:02,938 | Common.java | 76 | Parsing Locator: User or Staff Deleted Success Message of Users Page in Settings Page#xpath=//div[contains(@class,'icon-success')]//div[contains(text(),' User Profile deleted successfully')]
+ INFO | 2022-12-07 13:30:02,939 | Common.java | 76 | Desktop_Chrome - Locator Description : User or Staff Deleted Success Message of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:02,939 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:02,939 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'icon-success')]//div[contains(text(),' User Profile deleted successfully')]
+ INFO | 2022-12-07 13:30:03,010 | Common.java | 76 | User Profile deleted successfully message is displayed
+ INFO | 2022-12-07 13:30:03,015 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:03,015 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:03,028 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:03,091 | Common.java | 76 | Parsing Locator: Ok Button in User or Staff Deleted Success Message of Users Page in Settings Page#xpath=//div[contains(@class,'icon-success')]//button[contains(text(),'Ok')]
+ INFO | 2022-12-07 13:30:03,092 | Common.java | 76 | Desktop_Chrome - Locator Description : Ok Button in User or Staff Deleted Success Message of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:03,093 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:03,093 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'icon-success')]//button[contains(text(),'Ok')]
+ INFO | 2022-12-07 13:30:03,232 | Common.java | 76 | Click on: Ok Button in User or Staff Deleted Success Message of Users Page in Settings Page
+ INFO | 2022-12-07 13:30:03,237 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:03,238 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:03,256 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:03,329 | Common.java | 76 | Parsing Locator: Application Syndicate Logo Wrapper Image#xpath=//nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//img[contains(@class,'header-syndicate-logo')]
+ INFO | 2022-12-07 13:30:03,330 | Common.java | 76 | Desktop_Chrome - Locator Description : Application Syndicate Logo Wrapper Image
+ INFO | 2022-12-07 13:30:03,330 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:03,330 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//img[contains(@class,'header-syndicate-logo')]
+ INFO | 2022-12-07 13:30:03,436 | Common.java | 76 | Parsing Locator: Application Syndicate Logo Wrapper Image#xpath=//nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//img[contains(@class,'header-syndicate-logo')]
+ INFO | 2022-12-07 13:30:03,437 | Common.java | 76 | Desktop_Chrome - Locator Description : Application Syndicate Logo Wrapper Image
+ INFO | 2022-12-07 13:30:03,437 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:03,437 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//img[contains(@class,'header-syndicate-logo')]
+ INFO | 2022-12-07 13:30:03,563 | Common.java | 76 | Parsing Locator: Application Syndicate Logo Wrapper Image#xpath=//nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//img[contains(@class,'header-syndicate-logo')]
+ INFO | 2022-12-07 13:30:03,563 | Common.java | 76 | Desktop_Chrome - Locator Description : Application Syndicate Logo Wrapper Image
+ INFO | 2022-12-07 13:30:03,563 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:03,563 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//img[contains(@class,'header-syndicate-logo')]
+ INFO | 2022-12-07 13:30:03,690 | Common.java | 76 | Click on: Application Syndicate Logo Wrapper Image
+ INFO | 2022-12-07 13:30:03,698 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:03,698 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:03,715 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:03,778 | Common.java | 76 | Parsing Locator: Application Syndicate Logo Wrapper Image#xpath=//nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//img[contains(@class,'header-syndicate-logo')]
+ INFO | 2022-12-07 13:30:03,778 | Common.java | 76 | Desktop_Chrome - Locator Description : Application Syndicate Logo Wrapper Image
+ INFO | 2022-12-07 13:30:03,778 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:03,779 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//img[contains(@class,'header-syndicate-logo')]
+ INFO | 2022-12-07 13:30:03,842 | Common.java | 76 | Sucessfully got the text '' for Application Syndicate Logo Wrapper Image
+ INFO | 2022-12-07 13:30:03,871 | Common.java | 76 | Clicked On:
+ INFO | 2022-12-07 13:30:03,877 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:03,878 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:03,890 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:03,933 | Common.java | 76 | Parsing Locator: Logout Link in Application Syndicate Logo Wrapper Link#xpath=//nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//ul[contains(@class,'dropdown-menu')]//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-07 13:30:03,933 | Common.java | 76 | Desktop_Chrome - Locator Description : Logout Link in Application Syndicate Logo Wrapper Link
+ INFO | 2022-12-07 13:30:03,933 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:03,934 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//ul[contains(@class,'dropdown-menu')]//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-07 13:30:04,057 | Common.java | 76 | Parsing Locator: Logout Link in Application Syndicate Logo Wrapper Link#xpath=//nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//ul[contains(@class,'dropdown-menu')]//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-07 13:30:04,057 | Common.java | 76 | Desktop_Chrome - Locator Description : Logout Link in Application Syndicate Logo Wrapper Link
+ INFO | 2022-12-07 13:30:04,057 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:04,057 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'top header')]//div[contains(@class,'float-right header-syndicate-logo-wrapper-user')]//ul[contains(@class,'dropdown-menu')]//li//a[contains(text(),'Logout')]
+ INFO | 2022-12-07 13:30:07,295 | Common.java | 76 | Click on: Logout Link in Application Syndicate Logo Wrapper Link
+ INFO | 2022-12-07 13:30:07,301 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:07,301 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:07,317 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:44,343 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:30:44,344 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-07 13:30:44,344 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:44,344 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:30:44,431 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:30:44,431 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-07 13:30:44,432 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:44,432 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-07 13:30:44,505 | Common.java | 76 | Main page is displayed
+ INFO | 2022-12-07 13:30:44,518 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:44,526 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:44,552 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:44,601 | Common.java | 76 | HTCHR_IS_SCR_002_TC_062  -->Verify the mandatory fields validation and the respective alert messages for Company page
+ INFO | 2022-12-07 13:30:44,610 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:30:44,611 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:30:44,702 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:30:55,483 | Common.java | 76 | Parsing Locator: Create a Fund Quick Link#xpath=//a[contains(text(),'Create a fund')]
+ INFO | 2022-12-07 13:30:55,483 | Common.java | 76 | Desktop_Chrome - Locator Description : Create a Fund Quick Link
+ INFO | 2022-12-07 13:30:55,483 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:55,483 | Common.java | 76 | Desktop_Chrome - Locator: //a[contains(text(),'Create a fund')]
+ INFO | 2022-12-07 13:30:55,600 | Common.java | 76 | Parsing Locator: Create a Fund Quick Link#xpath=//a[contains(text(),'Create a fund')]
+ INFO | 2022-12-07 13:30:55,601 | Common.java | 76 | Desktop_Chrome - Locator Description : Create a Fund Quick Link
+ INFO | 2022-12-07 13:30:55,601 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:55,601 | Common.java | 76 | Desktop_Chrome - Locator: //a[contains(text(),'Create a fund')]
+ INFO | 2022-12-07 13:30:56,866 | Common.java | 76 | WebDriverException occured. Retrying..............
+ INFO | 2022-12-07 13:30:57,872 | Common.java | 76 | Parsing Locator: Create a Fund Quick Link#xpath=//a[contains(text(),'Create a fund')]
+ INFO | 2022-12-07 13:30:57,872 | Common.java | 76 | Desktop_Chrome - Locator Description : Create a Fund Quick Link
+ INFO | 2022-12-07 13:30:57,873 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:30:57,873 | Common.java | 76 | Desktop_Chrome - Locator: //a[contains(text(),'Create a fund')]
+ INFO | 2022-12-07 13:31:00,815 | Common.java | 76 | Click on: Create a Fund Quick Link
+ INFO | 2022-12-07 13:31:00,821 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:00,821 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:00,840 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:00,988 | Common.java | 76 | Create Fund Link verified.
+ INFO | 2022-12-07 13:31:00,996 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:00,996 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:01,011 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:25,691 | Common.java | 76 | Parsing Locator: Sign up Header#xpath=//h2[contains(text(),'Sign up')]
+ INFO | 2022-12-07 13:31:25,692 | Common.java | 76 | Desktop_Chrome - Locator Description : Sign up Header
+ INFO | 2022-12-07 13:31:25,692 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:25,692 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Sign up')]
+ INFO | 2022-12-07 13:31:25,918 | Common.java | 76 | Parsing Locator: Sign up Header#xpath=//h2[contains(text(),'Sign up')]
+ INFO | 2022-12-07 13:31:25,919 | Common.java | 76 | Desktop_Chrome - Locator Description : Sign up Header
+ INFO | 2022-12-07 13:31:25,919 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:25,919 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Sign up')]
+ INFO | 2022-12-07 13:31:26,032 | Common.java | 76 | Sign Up page is displayed
+ INFO | 2022-12-07 13:31:26,037 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:26,039 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:26,053 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:26,182 | Common.java | 76 | Parsing Locator: First Name Textbox in Sign Up Form#id=apply_first_name
+ INFO | 2022-12-07 13:31:26,182 | Common.java | 76 | Desktop_Chrome - Locator Description : First Name Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:26,186 | Common.java | 76 | Desktop_Chrome - Identify Type: id
+ INFO | 2022-12-07 13:31:26,186 | Common.java | 76 | Desktop_Chrome - Locator: apply_first_name
+ INFO | 2022-12-07 13:31:26,322 | Common.java | 76 | Parsing Locator: First Name Textbox in Sign Up Form#id=apply_first_name
+ INFO | 2022-12-07 13:31:26,322 | Common.java | 76 | Desktop_Chrome - Locator Description : First Name Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:26,322 | Common.java | 76 | Desktop_Chrome - Identify Type: id
+ INFO | 2022-12-07 13:31:26,324 | Common.java | 76 | Desktop_Chrome - Locator: apply_first_name
+ INFO | 2022-12-07 13:31:26,896 | Common.java | 76 | Type 'TestAutomationFirstNameARWXFEONWZ' in: First Name Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:26,911 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:26,911 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:26,930 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:27,049 | Common.java | 76 | The firstname is entered.
+ INFO | 2022-12-07 13:31:27,055 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:27,056 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:27,098 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:27,237 | Common.java | 76 | Parsing Locator: Last Name Textbox in Sign Up Form#id=apply_last_name
+ INFO | 2022-12-07 13:31:27,237 | Common.java | 76 | Desktop_Chrome - Locator Description : Last Name Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:27,237 | Common.java | 76 | Desktop_Chrome - Identify Type: id
+ INFO | 2022-12-07 13:31:27,237 | Common.java | 76 | Desktop_Chrome - Locator: apply_last_name
+ INFO | 2022-12-07 13:31:27,384 | Common.java | 76 | Parsing Locator: Last Name Textbox in Sign Up Form#id=apply_last_name
+ INFO | 2022-12-07 13:31:27,384 | Common.java | 76 | Desktop_Chrome - Locator Description : Last Name Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:27,384 | Common.java | 76 | Desktop_Chrome - Identify Type: id
+ INFO | 2022-12-07 13:31:27,385 | Common.java | 76 | Desktop_Chrome - Locator: apply_last_name
+ INFO | 2022-12-07 13:31:27,816 | Common.java | 76 | Type 'TestAutomationLastNameCUHVPHVAEU' in: Last Name Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:27,821 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:27,824 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:27,835 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:27,881 | Common.java | 76 | The lastname is entered.
+ INFO | 2022-12-07 13:31:27,887 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:27,887 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:27,904 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:27,960 | Common.java | 76 | Parsing Locator: Email Address Textbox in Sign Up Form#xpath=//input[@placeholder='Enter email address']
+ INFO | 2022-12-07 13:31:27,960 | Common.java | 76 | Desktop_Chrome - Locator Description : Email Address Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:27,961 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:27,961 | Common.java | 76 | Desktop_Chrome - Locator: //input[@placeholder='Enter email address']
+ INFO | 2022-12-07 13:31:28,074 | Common.java | 76 | Parsing Locator: Email Address Textbox in Sign Up Form#xpath=//input[@placeholder='Enter email address']
+ INFO | 2022-12-07 13:31:28,074 | Common.java | 76 | Desktop_Chrome - Locator Description : Email Address Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:28,074 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:28,074 | Common.java | 76 | Desktop_Chrome - Locator: //input[@placeholder='Enter email address']
+ INFO | 2022-12-07 13:31:28,510 | Common.java | 76 | Type 'hatcherautomation@gmail.com' in: Email Address Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:28,515 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:28,516 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:28,530 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:28,568 | Common.java | 76 | Email is entered.
+ INFO | 2022-12-07 13:31:28,574 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:28,574 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:28,589 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:28,648 | Common.java | 76 | Parsing Locator: Password Textbox in Sign Up Form#xpath=//input[@placeholder='Enter Password']
+ INFO | 2022-12-07 13:31:28,648 | Common.java | 76 | Desktop_Chrome - Locator Description : Password Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:28,648 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:28,648 | Common.java | 76 | Desktop_Chrome - Locator: //input[@placeholder='Enter Password']
+ INFO | 2022-12-07 13:31:28,736 | Common.java | 76 | Parsing Locator: Password Textbox in Sign Up Form#xpath=//input[@placeholder='Enter Password']
+ INFO | 2022-12-07 13:31:28,736 | Common.java | 76 | Desktop_Chrome - Locator Description : Password Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:28,736 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:28,737 | Common.java | 76 | Desktop_Chrome - Locator: //input[@placeholder='Enter Password']
+ INFO | 2022-12-07 13:31:29,016 | Common.java | 76 | Type 'P@ssw0rd' in: Password Textbox in Sign Up Form
+ INFO | 2022-12-07 13:31:29,026 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:29,026 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:29,044 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:29,097 | Common.java | 76 | Password is entered.
+ INFO | 2022-12-07 13:31:29,102 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:29,103 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:29,126 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:29,159 | Common.java | 76 | Successfully entered the Sign up form.
+ INFO | 2022-12-07 13:31:29,170 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:29,171 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:29,189 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:29,247 | Common.java | 76 | Parsing Locator: Sign Up button in Sign Up Form#xpath=//button[contains(text(),'Sign Up')]
+ INFO | 2022-12-07 13:31:29,252 | Common.java | 76 | Desktop_Chrome - Locator Description : Sign Up button in Sign Up Form
+ INFO | 2022-12-07 13:31:29,258 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:29,259 | Common.java | 76 | Desktop_Chrome - Locator: //button[contains(text(),'Sign Up')]
+ INFO | 2022-12-07 13:31:29,374 | Common.java | 76 | Parsing Locator: Sign Up button in Sign Up Form#xpath=//button[contains(text(),'Sign Up')]
+ INFO | 2022-12-07 13:31:29,374 | Common.java | 76 | Desktop_Chrome - Locator Description : Sign Up button in Sign Up Form
+ INFO | 2022-12-07 13:31:29,374 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:29,375 | Common.java | 76 | Desktop_Chrome - Locator: //button[contains(text(),'Sign Up')]
+ INFO | 2022-12-07 13:31:29,502 | Common.java | 76 | Parsing Locator: Sign Up button in Sign Up Form#xpath=//button[contains(text(),'Sign Up')]
+ INFO | 2022-12-07 13:31:29,512 | Common.java | 76 | Desktop_Chrome - Locator Description : Sign Up button in Sign Up Form
+ INFO | 2022-12-07 13:31:29,513 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:29,513 | Common.java | 76 | Desktop_Chrome - Locator: //button[contains(text(),'Sign Up')]
+ INFO | 2022-12-07 13:31:29,647 | Common.java | 76 | Parsing Locator: Sign Up button in Sign Up Form#xpath=//button[contains(text(),'Sign Up')]
+ INFO | 2022-12-07 13:31:29,648 | Common.java | 76 | Desktop_Chrome - Locator Description : Sign Up button in Sign Up Form
+ INFO | 2022-12-07 13:31:29,648 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:29,648 | Common.java | 76 | Desktop_Chrome - Locator: //button[contains(text(),'Sign Up')]
+ INFO | 2022-12-07 13:31:30,269 | Common.java | 76 | Click on: Sign Up button in Sign Up Form
+ INFO | 2022-12-07 13:31:30,296 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:30,297 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:30,354 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:30,620 | Common.java | 76 | Successfully Signed in.
+ INFO | 2022-12-07 13:31:30,647 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:30,647 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:30,685 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:30,815 | Common.java | 76 | Successfully submitted the Sign up form.
+ INFO | 2022-12-07 13:31:30,820 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:30,828 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:30,851 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:30,996 | Common.java | 76 | Parsing Locator: Investor Resigtration Email Sent Confirm Page Heading #xpath=//div[contains(@class,'application-form')]//div[contains(@id,'tab-verify-email')]//*[contains(text(),'Verify your email address')]
+ INFO | 2022-12-07 13:31:30,996 | Common.java | 76 | Desktop_Chrome - Locator Description : Investor Resigtration Email Sent Confirm Page Heading 
+ INFO | 2022-12-07 13:31:30,996 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:30,997 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form')]//div[contains(@id,'tab-verify-email')]//*[contains(text(),'Verify your email address')]
+ INFO | 2022-12-07 13:31:31,104 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-07 13:31:32,112 | Common.java | 76 | Parsing Locator: Investor Resigtration Email Sent Confirm Page Heading #xpath=//div[contains(@class,'application-form')]//div[contains(@id,'tab-verify-email')]//*[contains(text(),'Verify your email address')]
+ INFO | 2022-12-07 13:31:32,113 | Common.java | 76 | Desktop_Chrome - Locator Description : Investor Resigtration Email Sent Confirm Page Heading 
+ INFO | 2022-12-07 13:31:32,113 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:32,113 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form')]//div[contains(@id,'tab-verify-email')]//*[contains(text(),'Verify your email address')]
+ INFO | 2022-12-07 13:31:35,116 | Common.java | 76 | Parsing Locator: Investor Resigtration Email Sent Confirm Page Heading #xpath=//div[contains(@class,'application-form')]//div[contains(@id,'tab-verify-email')]//*[contains(text(),'Verify your email address')]
+ INFO | 2022-12-07 13:31:35,116 | Common.java | 76 | Desktop_Chrome - Locator Description : Investor Resigtration Email Sent Confirm Page Heading 
+ INFO | 2022-12-07 13:31:35,116 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:31:35,117 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form')]//div[contains(@id,'tab-verify-email')]//*[contains(text(),'Verify your email address')]
+ INFO | 2022-12-07 13:31:35,193 | Common.java | 76 | Investor Resigtration Email Sent Confirm Page is displayed
+ INFO | 2022-12-07 13:31:35,198 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:31:35,198 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:31:35,211 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:31:35,253 | Common.java | 76 | Waiting for 20 seconds...
+ INFO | 2022-12-07 13:32:45,257 | Common.java | 76 | Parsing Locator: Company Heading#xpath=//div[contains(@class,'application-form')]//*[text()='Company']
+ INFO | 2022-12-07 13:32:45,258 | Common.java | 76 | Desktop_Chrome - Locator Description : Company Heading
+ INFO | 2022-12-07 13:32:45,258 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:45,258 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form')]//*[text()='Company']
+ INFO | 2022-12-07 13:32:45,396 | Common.java | 76 | Registration Company page is displayed
+ INFO | 2022-12-07 13:32:45,399 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:45,400 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:45,413 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:45,489 | Common.java | 76 | Parsing Locator: Legal Name Label in Company Form#xpath=//span[contains(text(),'Company Name')]
+ INFO | 2022-12-07 13:32:45,490 | Common.java | 76 | Desktop_Chrome - Locator Description : Legal Name Label in Company Form
+ INFO | 2022-12-07 13:32:45,490 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:45,490 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Company Name')]
+ INFO | 2022-12-07 13:32:45,574 | Common.java | 76 | Legal Name Label in Company Form was displayed on the CompanyPage
+ INFO | 2022-12-07 13:32:45,578 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:45,578 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:45,589 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:45,613 | Common.java | 76 | Parsing Locator: Website Label in Company Form#xpath=//span[contains(text(),'Website')]
+ INFO | 2022-12-07 13:32:45,614 | Common.java | 76 | Desktop_Chrome - Locator Description : Website Label in Company Form
+ INFO | 2022-12-07 13:32:45,614 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:45,614 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Website')]
+ INFO | 2022-12-07 13:32:45,710 | Common.java | 76 | Website Label in Company Form was displayed on the CompanyPage
+ INFO | 2022-12-07 13:32:45,716 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:45,716 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:45,733 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:45,766 | Common.java | 76 | Parsing Locator: City Label in Company Form#xpath=//span[contains(text(),'City')]
+ INFO | 2022-12-07 13:32:45,767 | Common.java | 76 | Desktop_Chrome - Locator Description : City Label in Company Form
+ INFO | 2022-12-07 13:32:45,770 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:45,770 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'City')]
+ INFO | 2022-12-07 13:32:45,877 | Common.java | 76 | City Label in Company Form was displayed on the CompanyPage
+ INFO | 2022-12-07 13:32:45,887 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:45,887 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:45,905 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:45,948 | Common.java | 76 | Parsing Locator: Country Label in Company Form#xpath=//span[text()='Country']
+ INFO | 2022-12-07 13:32:45,953 | Common.java | 76 | Desktop_Chrome - Locator Description : Country Label in Company Form
+ INFO | 2022-12-07 13:32:45,957 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:45,959 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Country']
+ INFO | 2022-12-07 13:32:46,065 | Common.java | 76 | Country Label in Company Form was displayed on the CompanyPage
+ INFO | 2022-12-07 13:32:46,072 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:46,072 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:46,086 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:46,126 | Common.java | 76 | Parsing Locator: Legal Name Textbox in Company Form#xpath=//span[contains(text(),'Company Name')]/parent::label/parent::div//input
+ INFO | 2022-12-07 13:32:46,126 | Common.java | 76 | Desktop_Chrome - Locator Description : Legal Name Textbox in Company Form
+ INFO | 2022-12-07 13:32:46,127 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:46,127 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Company Name')]/parent::label/parent::div//input
+ INFO | 2022-12-07 13:32:46,226 | Common.java | 76 | Legal Name Textbox in Company Form was displayed on the CompanyPage
+ INFO | 2022-12-07 13:32:46,232 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:46,232 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:46,249 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:46,288 | Common.java | 76 | Parsing Locator: Website Textbox in Company Form#xpath=//span[contains(text(),'Website')]/parent::label/parent::div//input
+ INFO | 2022-12-07 13:32:46,292 | Common.java | 76 | Desktop_Chrome - Locator Description : Website Textbox in Company Form
+ INFO | 2022-12-07 13:32:46,292 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:46,293 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Website')]/parent::label/parent::div//input
+ INFO | 2022-12-07 13:32:46,457 | Common.java | 76 | Website Textbox in Company Form was displayed on the CompanyPage
+ INFO | 2022-12-07 13:32:46,482 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:46,483 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:46,510 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:46,567 | Common.java | 76 | Parsing Locator: City Textbox in Company Form#xpath=//span[contains(text(),'City')]/parent::label/parent::div//input
+ INFO | 2022-12-07 13:32:46,568 | Common.java | 76 | Desktop_Chrome - Locator Description : City Textbox in Company Form
+ INFO | 2022-12-07 13:32:46,568 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:46,568 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'City')]/parent::label/parent::div//input
+ INFO | 2022-12-07 13:32:46,654 | Common.java | 76 | City Textbox in Company Form was displayed on the CompanyPage
+ INFO | 2022-12-07 13:32:46,660 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:46,660 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:46,673 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:46,710 | Common.java | 76 | Parsing Locator: Country Dropdown in Company Form#xpath=//span[contains(text(),'Country')]/ancestor::label/parent::div//div[contains(@class,'multiselect__select')]
+ INFO | 2022-12-07 13:32:46,710 | Common.java | 76 | Desktop_Chrome - Locator Description : Country Dropdown in Company Form
+ INFO | 2022-12-07 13:32:46,710 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:32:46,710 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Country')]/ancestor::label/parent::div//div[contains(@class,'multiselect__select')]
+ INFO | 2022-12-07 13:32:46,805 | Common.java | 76 | Country Dropdown in Company Form was displayed on the CompanyPage
+ INFO | 2022-12-07 13:32:46,809 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:46,809 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:46,819 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:32:46,849 | Common.java | 76 | HTCHR_IS_SCR_002_TC_066  -->Verify the spellcheck for all individual label name, place holder text,  dropdown values and buttons
+ INFO | 2022-12-07 13:32:46,856 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:32:46,857 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:32:46,875 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:33:24,747 | Common.java | 76 | Parsing Locator: Company Name Placeholder#xpath=//input[contains(@placeholder,'Hatcher Plus Pte Ltd')]
+ INFO | 2022-12-07 13:33:24,760 | Common.java | 76 | Desktop_Chrome - Locator Description : Company Name Placeholder
+ INFO | 2022-12-07 13:33:24,772 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:33:24,781 | Common.java | 76 | Desktop_Chrome - Locator: //input[contains(@placeholder,'Hatcher Plus Pte Ltd')]
+ INFO | 2022-12-07 13:33:31,864 | Common.java | 76 | Company Name Placeholder was displayed on the CompanyPage
+ INFO | 2022-12-07 13:33:31,941 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:33:31,945 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:33:32,044 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:33:35,111 | Common.java | 76 | Parsing Locator: Website Placeholder#xpath=//input[contains(@placeholder,'website')]
+ INFO | 2022-12-07 13:33:35,126 | Common.java | 76 | Desktop_Chrome - Locator Description : Website Placeholder
+ INFO | 2022-12-07 13:33:35,135 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:33:35,141 | Common.java | 76 | Desktop_Chrome - Locator: //input[contains(@placeholder,'website')]
+ INFO | 2022-12-07 13:33:45,560 | Common.java | 76 | Website Placeholder was displayed on the CompanyPage
+ INFO | 2022-12-07 13:33:45,635 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-07 13:33:45,637 | Common.java | 76 | Test step is created
+ INFO | 2022-12-07 13:33:45,736 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-07 13:33:49,196 | Common.java | 76 | Parsing Locator: City Placeholder in Company Form#xpath=//input[contains(@placeholder,'New York')]
+ INFO | 2022-12-07 13:33:49,209 | Common.java | 76 | Desktop_Chrome - Locator Description : City Placeholder in Company Form
+ INFO | 2022-12-07 13:33:49,219 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-07 13:33:49,228 | Common.java | 76 | Desktop_Chrome - Locator: //input[contains(@placeholder,'New York')]

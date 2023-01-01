@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify on clicking &quot;Add contact&quot;, System displays the provision to input data" id="verifyClickOnAddContact">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Main page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Page Heading is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify Navigate to login page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully logedIn " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Exception in LaunchApplicationorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[contains(text(),'Text')]//ancestor::a[@class='dropdown-anchor']&quot;}&#10;  (Session info: chrome=108.0.5359.125)&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'&#10;System info: host: 'IND-CHN-LT12568', ip: '10.10.152.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}), userDataDir=C:\Users\I5454\AppData\Local\Temp\scoped_dir17932_416524091}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:55153}, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=108.0.5359.125, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: 6936bfbedd92094238359e9e37565069&#10;*** Element info: {Using=xpath, value=//span[contains(text(),'Text')]//ancestor::a[@class='dropdown-anchor']}" ScreenShotName="../../Screenshots/TestFailure2" Status="Fail"/>
+  </TestCase>
+</Scenario>

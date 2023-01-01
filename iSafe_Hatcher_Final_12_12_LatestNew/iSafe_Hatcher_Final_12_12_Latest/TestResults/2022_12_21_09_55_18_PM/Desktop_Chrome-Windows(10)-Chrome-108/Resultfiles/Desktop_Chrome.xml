@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify Salutation field in the Add contact page has default value as per design." id="HTCHR_AC_SCR_001_TC_003">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Main page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Page Heading is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify Navigate to login page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully logedIn " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the MenuButton button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Actions" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Action Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the Add New Listing item" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add New Listing" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Add New Listing item" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Exception in the method getElementAndClickjava.lang.IllegalArgumentException: No enum constant automationFramework.GenericKeywords.identifierType.//label[text()" ScreenShotName="../../Screenshots/TestFailure1" Status="Fail"/>
+  <TestStep Link="" Message="verify FirstName label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the FirstName label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Placeholder is present: First Name" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully enter the FirstName field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify LastName label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the LastName label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Placeholder is present: Last Name" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully Enter the LastName field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify  EmailId label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the EmailId label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Text EMail Id does not match with Actual Text Email" ScreenShotName="../../Screenshots/TestFailure2" Status="Fail"/>
+  <TestStep Link="" Message="Successfully Enter the EmailId field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify  EmailId label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the JobTittle label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Placeholder is present: Job title" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully Enter the JobTittle field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify  phone label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the EmailId label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Placeholder is present: Enter mobile no." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully Enter the phoneNumber field" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify  LinkedIn label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the EmailId label" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected Text LinkedIn (Complete URL) does not match with Actual Text " ScreenShotName="../../Screenshots/TestFailure3" Status="Fail"/>
+  </TestCase>
+</Scenario>

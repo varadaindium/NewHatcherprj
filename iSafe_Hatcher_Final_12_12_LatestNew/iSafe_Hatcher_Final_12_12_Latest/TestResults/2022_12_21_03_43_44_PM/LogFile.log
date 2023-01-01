@@ -1,0 +1,34 @@
+ INFO | 2022-12-21 15:43:49,538 | Common.java | 76 | Startup activites...
+ INFO | 2022-12-21 15:43:49,642 | Common.java | 76 | Test Output Directory creation successful :D:\Hatcher\iSafe_Hatcher_Final_12_12_LatestNew\iSafe_Hatcher_Final_12_12_Latest/TestResults/2022_12_21_03_43_44_PM
+ INFO | 2022-12-21 15:43:49,647 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2022-12-21 15:43:51,289 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 15:43:52,424 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 15:43:52,436 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2022-12-21 15:43:52,532 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-21 15:43:52,536 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-21 15:43:53,917 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 15:43:53,963 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 15:45:33,354 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-21 15:45:33,361 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 15:45:33,364 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-21 15:45:33,366 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 15:45:33,367 | Common.java | 76 | Element time out set
+ INFO | 2022-12-21 15:45:33,375 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 15:45:33,380 | Common.java | 76 | Opening Chrome Browser...
+ INFO | 2022-12-21 15:45:33,383 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2022-12-21 15:45:33,456 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ERROR | 2022-12-21 15:45:38,679 | Common.java | 84 | Browser: Open Failure/Navigation cancelled, please check the application window. Error: org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'IND-CHN-LT12568', ip: '10.10.152.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: driver.version: RemoteWebDriver
+ERROR | 2022-12-21 15:45:38,680 | Common.java | 84 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2022-12-21 15:45:38,680 | Common.java | 84 | org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'IND-CHN-LT12568', ip: '10.10.152.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: driver.version: RemoteWebDriver
+ INFO | 2022-12-21 15:45:38,688 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2022-12-21 15:45:38,690 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Hatcher Automation Execution Report
+ INFO | 2022-12-21 15:45:38,757 | Common.java | 76 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2022-12-21 15:45:38,767 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-12-21 15:45:38,771 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 15:45:38,777 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3

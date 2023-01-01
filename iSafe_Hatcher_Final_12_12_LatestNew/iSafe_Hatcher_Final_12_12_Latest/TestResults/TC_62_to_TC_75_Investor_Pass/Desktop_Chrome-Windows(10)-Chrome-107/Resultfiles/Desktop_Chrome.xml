@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Investor Company Page After Login Mandatory Fields Validations" id="HTCHR_IS_SCR_004_TC_062_To_075_Test">
+    <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="*******************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Test Execution Started" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="*******************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="*******************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Data Inputs" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="*******************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Admin Mail Id : htchrautomationboss@gmail.com" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Admin Password : P@@ssw0rd" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Page Option : Users" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Firstname : TestAutomationFirstNameIXSKMBTEMM" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="LastName : TestAutomationLastNameGTDCBVEFAJ" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Email Address : hatcherautomation@gmail.com" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Password : P@ssw0rd" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Email Server : Gmail" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Email Id : hatcherautomation@gmail.com" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Email Password : iovfoitlflstngub" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Email Subject : Please activate your Hatcher+ account" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Legal Name : EntrepreneurLegalNameHZTIJGWQCK" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Legal Name 2 : EntrepreneurLegalNameTYFKYDVCZJ" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Legal Name 3 : EntrepreneurLegalNameQZGJUJFENZ" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Legal Name 4 : EntrepreneurLegalNameTUZOZMZIVZ" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Website : google.com" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="City : Chennai" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Country : India" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Legal Name Special Characters : 6*Hw4iPKC2" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Website Special Characters : test123!@#$%&amp;*&lt;&gt;?:&quot;{" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="City Special Characters : test123!@#$%&amp;*&lt;&gt;?:&quot;{" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Country Special Characters : test123!@#$%&amp;*&lt;&gt;?:&quot;{" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Legal Name Already Exists : TestLegalname" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Search Profile : TestAutomationFirstNameIXSKMBTEMM" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Profile Name Full : TestAutomationLastNameGTDCBVEFAJ TestAutomationFirstNameIXSKMBTEMM" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Profile Name Full 2 : TestAutomationFirstNameIXSKMBTEMM TestAutomationLastNameGTDCBVEFAJ" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Legal Name Space Special Characters : Test123  test.;'[]-!$$%^" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Website Space Special Characters : Test123  test.;'[]-!$$%^" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="************************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Execution Steps Started" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="************************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Main page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Navigated to the login form." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'htchrautomationboss@gmail.com' in: Email Address Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="email entered successfully." ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type 'P@@ssw0rd' in: Password Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Password entered successfully." ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Login Button in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Form displayed successfully." ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Login credentials entered successfully." ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Settings Link in Fixed Sidebar" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: settings" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Settings Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Select 'Users' from : Pages Dropdown in Settings Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Users Tab of Users Page is displayed in Settings Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Users Tab Link in Settings Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Users Section of Users Tab of Users Page is displayed in Settings Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcherautomation@gmail.com' in: Search Textbox in Users Tab Section of Users Page in Settings Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="hatcherautomation@gmail.com User name or email address is already registered in application" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: User " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="User Toggle Icon Options is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Delete User Link in User Action List of Users Tab Section of Users Page in Settings Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Delete User Confirm Dialog window is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Delete Button in Delete User or Staff Dialog Window of Users Page in Settings Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="User Profile deleted successfully message is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Ok Button in User or Staff Deleted Success Message of Users Page in Settings Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Application Syndicate Logo Wrapper Image" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Clicked On:" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Logout Link in Application Syndicate Logo Wrapper Link" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Main page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="HTCHR_IS_SCR_002_TC_062  --&gt;Verify the mandatory fields validation and the respective alert messages for Company page" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Create a Fund Quick Link" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Create Fund Link verified." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Sign Up page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'TestAutomationFirstNameIXSKMBTEMM' in: First Name Textbox in Sign Up Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The firstname is entered." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'TestAutomationLastNameGTDCBVEFAJ' in: Last Name Textbox in Sign Up Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The lastname is entered." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcherautomation@gmail.com' in: Email Address Textbox in Sign Up Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Email is entered." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'P@ssw0rd' in: Password Textbox in Sign Up Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Password is entered." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully entered the Sign up form." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Sign Up button in Sign Up Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully Signed in." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully submitted the Sign up form." ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Investor Resigtration Email Sent Confirm Page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Registration Company page is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Legal Name Label in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Website Label in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="City Label in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Country Label in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Legal Name Textbox in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Website Textbox in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="City Textbox in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Country Dropdown in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="HTCHR_IS_SCR_002_TC_066  --&gt;Verify the spellcheck for all individual label name, place holder text,  dropdown values and buttons" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Company Name Placeholder was displayed on the CompanyPage" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Website Placeholder was displayed on the CompanyPage" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="City Placeholder in Company Form was displayed on the CompanyPage" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="HTCHR_IS_SCR_002_TC_067  --&gt;Verify the first letter for all individual label name, place holder text, dropdown values, buttons should be in UPPER CASE" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Company Name - label value is begin with upper case" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Website - label value is begin with upper case" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="City - label value is begin with upper case" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Country - label value is begin with upper case" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="HTCHR_IS_SCR_002_TC_069  --&gt;Verify the mandatory field ( legal name) accepts blank by keeping other fields as valid data" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type 'google.com' in: Website Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Chennai' in: City Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Next button is in Disabled State" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="HTCHR_IS_SCR_002_TC_070  --&gt;Verify the mandatory field ( website) accepts blank by keeping other fields as valid data" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type 'EntrepreneurLegalNameHZTIJGWQCK' in: Legal Name Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Chennai' in: City Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Next button is in Disabled State" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="HTCHR_IS_SCR_002_TC_072 and HTCHR_IS_SCR_002_TC_078  --&gt;Verify the mandatory field (Legal name) accepts alphanumeric, special characters, upper case &amp; lower case combinations" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type '6*Hw4iPKC2' in: Legal Name Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'google.com' in: Website Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Chennai' in: City Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Next button is in Enabled State" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="HTCHR_IS_SCR_002_TC_073  --&gt;Verify the mandatory field (Website) accepts alphanumeric, special characters, upper case &amp; lower case combinations" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type 'EntrepreneurLegalNameHZTIJGWQCK' in: Legal Name Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Test123  test.;'[]-!$$%^' in: Website Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Chennai' in: City Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="HTCHR_IS_SCR_002_TC_075  --&gt;Verify the mandatory field ( legal name, Website &amp;Country) accepts valid data and non mandatory fields as blank" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type 'EntrepreneurLegalNameHZTIJGWQCK' in: Legal Name Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'google.com' in: Website Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Country Dropdown in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox in Company Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Next button is in Enabled State" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="************************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Execution Steps Completed" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="************************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="*******************************" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Test Execution Completed" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="*******************************" ScreenShotName="" Status="Info"/>
+  </TestCase>
+</Scenario>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="20" parallel="tests" name="Failed suite [Suite]">
+  <parameter name="selenium.port" value="4446"/>
+  <parameter name="selenium.osVersion" value="10"/>
+  <parameter name="selenium.host" value="localhost"/>
+  <parameter name="selenium.machinename" value="Desktop_Chrome"/>
+  <parameter name="selenium.browserVersion" value="108"/>
+  <parameter name="selenium.os" value="Windows"/>
+  <parameter name="selenium.browser" value="Chrome"/>
+  <parameter name="selenium.url" value="https://hq.hatcher-staging.com/"/>
+  <parameter name="TestData.SheetNumber" value="2"/>
+  <test parallel="tests" name="Desktop_Chrome(failed)">
+    <parameter name="selenium.port" value="4446"/>
+    <parameter name="selenium.osVersion" value="10"/>
+    <parameter name="selenium.host" value="localhost"/>
+    <parameter name="selenium.machinename" value="Desktop_Chrome"/>
+    <parameter name="selenium.browserVersion" value="108"/>
+    <parameter name="selenium.os" value="Windows"/>
+    <parameter name="selenium.browser" value="Chrome"/>
+    <parameter name="selenium.url" value="https://hq.hatcher-staging.com/"/>
+    <parameter name="TestData.SheetNumber" value="2"/>
+    <classes>
+      <class name="TestCases.TestCases">
+        <methods>
+          <include name="precondition"/>
+          <include name="HTCHR_AC_SCR_001_TC_003"/>
+        </methods>
+      </class> <!-- TestCases.TestCases -->
+    </classes>
+  </test> <!-- Desktop_Chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

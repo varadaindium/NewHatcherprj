@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify first name field in the Add contact page accepts when character length is less than or equal to 100 characters." id="HTCHR_AC_SCR_001_TC_024">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Main page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Welcome back is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Please login is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Log in via... is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="  Google is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message=" is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Forgot password? Click here is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully logedIn " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="List Of Sidebar Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions DropDown is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing Dialog Box is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully navigate to Add New Listing Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Mr is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="FirstName label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'aUtqhycv' in: First Name Textbox " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="The Length of Functionality is worked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Listing Close button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add Listing Close button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully navigate to Home Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="logout button  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the LogOut menu" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: logout button " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on logOut menu" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="select logout button  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the LogOut Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: select logout button " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on logOut button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="successfully logOut the Application" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+<TestCase description="Verify first name field in the Add contact page throws error when character length is greater than 100." id="HTCHR_AC_SCR_001_TC_025">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Main page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on Login Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Welcome back is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Please login is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Log in via... is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="  Google is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message=" is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Forgot password? Click here is Displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button in Login Form" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully logedIn " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="List Of Sidebar Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions DropDown is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing Dialog Box is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully navigate to Add New Listing Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Mr is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="FirstName label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Middle Name Textbox " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Maximum and Minimum length values Enterded As ExpectedGtokRmqZHosszNPqPgLydcFYrkaMoBcWpsXuMexNeOfHPZkjdkCtTSqJHWQgQwCXLlYcNUTUxqtdNCAltmjxbmbevyedThCBPgfpPc" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Listing Close button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add Listing Close button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully navigate to Home Page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="logout button  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the LogOut menu" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: logout button " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on logOut menu" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="select logout button  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Displayed the LogOut Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: select logout button " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully click on logOut button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="successfully logOut the Application" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+</Scenario>

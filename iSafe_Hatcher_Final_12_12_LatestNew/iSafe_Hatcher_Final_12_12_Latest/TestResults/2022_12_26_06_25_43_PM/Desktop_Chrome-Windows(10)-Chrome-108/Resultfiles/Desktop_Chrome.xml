@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify by giving valid data in all mandatory and non-mandatory fields and check “Add Individual” or “Add Organization” button is enabled" id="HTCHR_AC_SCR_001_TC_068">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Button Salutation is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Other is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Other" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Other" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Frank' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'New' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'User' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcherdemo@gmail.com' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Share Market' in: Text box in JobTitle" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '3787374663' in: TypeIn PhoneNumber" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: TypeIn LinkedIn" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'www.hatcher.com' in: TypeIn LinkedIn" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify  Bio label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Welcome To Hatcher' in: Type Text In Bio" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Welcome To Hatcher" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Address is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'New city' in: TypeIn Address" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '09/Aug' in: Apartment Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Pune' in: City Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Tamil Nadu' in: State Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '84377' in: Postal Code Field " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Country Textbox  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="India is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Account Type" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Entrepreneur" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Investor" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Expert" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Account Type" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Account Type is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Investor is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Investor" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Business Type" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Business Type is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Economic Development Agency is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Economic Development Agency" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Listing Added By" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Listing Added By is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tester, Indium is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Tester, Indium" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Send Invite" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Send Invite is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Yes is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Yes" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Industry Textbox is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '3D' in: Industry Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="&lt;&lt; Expected condition doesn't meet with Actual condition &gt;&gt; 3D" ScreenShotName="../../Screenshots/TestFailure1" Status="Fail"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Individual Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Element is Enabled" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Organisation Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Element is Enabled" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add Individual Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="User Details Add sucessfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Frank New User" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Profile Icon" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Logout Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Sucessfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Exception in the Method loginorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@id='dropdownUserButton']&quot;}&#10;  (Session info: chrome=108.0.5359.125)&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'&#10;System info: host: 'IND-CHN-LT12568', ip: '10.10.152.28', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}), userDataDir=C:\Users\I5454\AppData\Local\Temp\scoped_dir14800_1459634073}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:49528}, webdriver.remote.sessionid=94781117550d29bf9d3a641a3020a86e, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=108.0.5359.125, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: 94781117550d29bf9d3a641a3020a86e&#10;*** Element info: {Using=xpath, value=//a[@id='dropdownUserButton']}" ScreenShotName="../../Screenshots/TestFailure2" Status="Fail"/>
+  </TestCase>
+<TestCase description="Verify by giving valid data in all mandatory fields and non-mandatory fields as blank, User clicks “Add Individual” or “Add Organization” button." id="HTCHR_AC_SCR_001_TC_070">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Button Salutation is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Other is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Other" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Other" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Frank' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'User' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcherdemo@gmail.com' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Country Textbox  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="India is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Individual Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Element is Enabled" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Organisation Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Element is Enabled" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add Individual Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="User Details Add sucessfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Frank User" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Profile Icon" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Logout Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Sucessfully" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+<TestCase description="Verify filling all non-mandatory field with valid data and blank mandatory fields for Account type &quot;Entrepreneur&quot; " id="HTCHR_AC_SCR_001_TC_073">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'New' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Share Market' in: Text box in JobTitle" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '3787374663' in: TypeIn PhoneNumber" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: TypeIn LinkedIn" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'www.hatcher.com' in: TypeIn LinkedIn" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify  Bio label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Welcome To Hatcher' in: Type Text In Bio" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Welcome To Hatcher" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Address is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'New city' in: TypeIn Address" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '01/Aug' in: Apartment Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Pune' in: City Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Tamil Nadu' in: State Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '84377' in: Postal Code Field " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Account Type" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Account Type is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Entrepreneur is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Entrepreneur" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Business Type" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Business Type is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Business Customers is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Business Customers" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Listing Added By" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Listing Added By is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tester, Indium is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Tester, Indium" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Send Invite" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Send Invite is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Yes is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Yes" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Industry Textbox is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '3D' in: Industry Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="&lt;&lt; Expected condition doesn't meet with Actual condition &gt;&gt; 3D" ScreenShotName="../../Screenshots/TestFailure3" Status="Fail"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Individual Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Element is Not Enabled" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Organisation Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Element is Not Enabled" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled Up the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add Listing Close button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Profile Icon" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Logout Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Sucessfully" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Exception in the Method loginorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@id='dropdownUserButton']&quot;}&#10;  (Session info: chrome=108.0.5359.125)&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'&#10;System info: host: 'IND-CHN-LT12568', ip: '10.10.152.28', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}), userDataDir=C:\Users\I5454\AppData\Local\Temp\scoped_dir14800_1459634073}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:49528}, webdriver.remote.sessionid=94781117550d29bf9d3a641a3020a86e, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=108.0.5359.125, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: 94781117550d29bf9d3a641a3020a86e&#10;*** Element info: {Using=xpath, value=//a[@id='dropdownUserButton']}" ScreenShotName="../../Screenshots/TestFailure4" Status="Fail"/>
+  </TestCase>
+<TestCase description="Verify filling all non-mandatory field &amp; mandatory fields with valid data for Account type &quot;Entrepreneur&quot; " id="HTCHR_AC_SCR_001_TC_074">
+    <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher1298@gmail.com' in: Email Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Indium@123' in: Password Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Profile Icon is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Actions is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add New Listing is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Button Salutation is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Other is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Other" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Other" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Frank' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'New' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'User' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'hatcher@gmail.com' in: Text box FirstName" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Share Market' in: Text box in JobTitle" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '3787374663' in: TypeIn PhoneNumber" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: TypeIn LinkedIn" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'www.hatcher.com' in: TypeIn LinkedIn" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="verify  Bio label is present is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Welcome To Hatcher' in: Type Text In Bio" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Welcome To Hatcher" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Address is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'New city' in: TypeIn Address" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '01/Aug' in: Apartment Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Pune' in: City Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Tamil Nadu' in: State Field Place Holder" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '84377' in: Postal Code Field " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Country Textbox  is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'India' in: Country Textbox " ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="India is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Account Type" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Entrepreneur" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Investor" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Expert" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Account Type" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Account Type is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Entrepreneur is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Entrepreneur" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Business Type" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Business Type is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Business Customers is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Business Customers" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Listing Added By" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Listing Added By is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tester, Indium is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Tester, Indium" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Send Invite" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Send Invite is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Yes is validated and clicked" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected condition meets with Actual condition Yes" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Industry Textbox is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '3D' in: Industry Textbox" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="&lt;&lt; Expected condition doesn't meet with Actual condition &gt;&gt; 3D" ScreenShotName="../../Screenshots/TestFailure5" Status="Fail"/>
+  <TestStep Link="" Message="Scrolled down the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Individual Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Element is Enabled" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Add Organisation Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Element is Enabled" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Scrolled Up the Element" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Add Listing Close button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Profile Icon" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Logout Button" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Login Button is displayed" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Logout Sucessfully" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+</Scenario>

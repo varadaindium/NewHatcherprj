@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Desktop_Chrome">
+  <TestCase description="Verify by giving valid data in all mandatory and non-mandatory fields and check “Add Individual” or “Add Organization” button is enabled" id="HTCHR_AC_SCR_001_TC_068">
+    <TestStep Link="" Message="Login Button element is not displayed within 10 timeouts" ScreenShotName="../../Screenshots/TestFailure1" Status="Fail"/>
+  <TestStep Link="" Message="Login Button is not displayed" ScreenShotName="../../Screenshots/TestFailure2" Status="Fail"/>
+  <TestStep Link="" Message="Main page is lunched successfully" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+</Scenario>

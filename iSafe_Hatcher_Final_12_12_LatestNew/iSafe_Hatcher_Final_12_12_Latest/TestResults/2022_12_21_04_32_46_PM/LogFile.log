@@ -1,0 +1,386 @@
+ INFO | 2022-12-21 16:32:46,524 | Common.java | 76 | Startup activites...
+ INFO | 2022-12-21 16:32:46,531 | Common.java | 76 | Test Output Directory creation successful :D:\Hatcher\iSafe_Hatcher_Final_12_12_LatestNew\iSafe_Hatcher_Final_12_12_Latest/TestResults/2022_12_21_04_32_46_PM
+ INFO | 2022-12-21 16:32:46,531 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2022-12-21 16:32:46,799 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 16:32:47,180 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 16:32:47,184 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2022-12-21 16:32:47,276 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-21 16:32:47,277 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Batch_Suite
+ INFO | 2022-12-21 16:32:47,505 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 16:32:47,513 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 16:32:48,632 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-21 16:32:48,636 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 16:32:48,638 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-21 16:32:48,640 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 16:32:48,640 | Common.java | 76 | Element time out set
+ INFO | 2022-12-21 16:32:48,644 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 16:32:48,647 | Common.java | 76 | Opening Chrome Browser...
+ INFO | 2022-12-21 16:32:48,650 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2022-12-21 16:32:48,710 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2022-12-21 16:32:55,805 | Common.java | 76 | Successfully Maximised Browser Window
+ INFO | 2022-12-21 16:32:55,863 | Common.java | 76 | Browser: Open Successful : chrome
+ INFO | 2022-12-21 16:32:55,864 | Common.java | 76 | Open Browser : chrome
+ INFO | 2022-12-21 16:32:55,868 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 16:32:55,868 | Common.java | 76 | Navigating to URL : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 16:33:04,390 | Common.java | 76 | Navigation Successful : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 16:33:04,391 | Common.java | 76 | Navigate to : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 16:33:04,415 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : ./Logos/Indium-Software-Logo.jpg
+ INFO | 2022-12-21 16:33:04,418 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : ./Logos/client_logo.jpg
+ INFO | 2022-12-21 16:33:04,423 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : ./Logos/Indium-Software-Logo.jpg
+ INFO | 2022-12-21 16:33:04,426 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : ./Logos/client_logo.jpg
+ INFO | 2022-12-21 16:33:04,505 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-12-21 16:33:04,506 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 16:33:04,508 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2022-12-21 16:33:04,510 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2022-12-21 16:33:04,510 | Common.java | 76 | Element time out set
+ INFO | 2022-12-21 16:33:04,510 | Common.java | 76 | ############# Start of Test Case[HTCHR_AC_SCR_001_TC_003] : Verify Salutation field in the Add contact page has default value as per design. #############
+ INFO | 2022-12-21 16:33:04,537 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:04,538 | Common.java | 76 | Test Case tag is created
+ INFO | 2022-12-21 16:33:04,547 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:04,550 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:04,629 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:04,687 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:04,756 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:04,822 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:04,885 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:04,968 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:05,028 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:05,087 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:05,147 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:05,207 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:05,288 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:05,362 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./data/TestData.xls
+ INFO | 2022-12-21 16:33:05,424 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://hq.hatcher-staging.com/
+ INFO | 2022-12-21 16:33:07,519 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-21 16:33:07,520 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-21 16:33:07,520 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:07,521 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-21 16:33:07,994 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-21 16:33:07,994 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-21 16:33:07,995 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:07,995 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-21 16:33:08,099 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-21 16:33:08,099 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-21 16:33:08,099 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:08,100 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-21 16:33:08,254 | Common.java | 76 | Login Button is displayed
+ INFO | 2022-12-21 16:33:08,261 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:08,263 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:08,275 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:08,757 | Common.java | 76 | Main page is lunched successfully
+ INFO | 2022-12-21 16:33:08,763 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:08,764 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:08,775 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:08,876 | Common.java | 76 | Parsing Locator: Login Button#xpath=//nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-21 16:33:08,876 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button
+ INFO | 2022-12-21 16:33:08,877 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:08,877 | Common.java | 76 | Desktop_Chrome - Locator: //nav[contains(@class,'navbar')]//a[contains(@href,'login')]
+ INFO | 2022-12-21 16:33:13,157 | Common.java | 76 | Click on: Login Button
+ INFO | 2022-12-21 16:33:13,164 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:13,164 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:13,178 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:13,276 | Common.java | 76 | Successfully click on Login Page
+ INFO | 2022-12-21 16:33:13,283 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:13,284 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:13,295 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:13,381 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-21 16:33:13,381 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-21 16:33:13,382 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:13,382 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-21 16:33:13,637 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-21 16:33:13,637 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-21 16:33:13,638 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:13,638 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-21 16:33:13,749 | Common.java | 76 | Parsing Locator: Login Page Heading#xpath=//h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-21 16:33:13,749 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Page Heading
+ INFO | 2022-12-21 16:33:13,750 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:13,750 | Common.java | 76 | Desktop_Chrome - Locator: //h2[contains(text(),'Welcome back')] | //span[@class='text-left']
+ INFO | 2022-12-21 16:33:13,902 | Common.java | 76 | Login Page Heading is displayed
+ INFO | 2022-12-21 16:33:13,908 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:13,909 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:13,921 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:13,963 | Common.java | 76 | Login page is lunched successfully
+ INFO | 2022-12-21 16:33:13,969 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:13,970 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:13,982 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:14,070 | Common.java | 76 | Parsing Locator: Email Address Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-21 16:33:14,071 | Common.java | 76 | Desktop_Chrome - Locator Description : Email Address Textbox in Login Form
+ INFO | 2022-12-21 16:33:14,071 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:14,071 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='email']
+ INFO | 2022-12-21 16:33:14,525 | Common.java | 76 | Type 'hatcher1298@gmail.com' in: Email Address Textbox in Login Form
+ INFO | 2022-12-21 16:33:14,532 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:14,533 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:14,548 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:14,689 | Common.java | 76 | Parsing Locator: Password Textbox in Login Form#xpath=//div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-21 16:33:14,689 | Common.java | 76 | Desktop_Chrome - Locator Description : Password Textbox in Login Form
+ INFO | 2022-12-21 16:33:14,690 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:14,690 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//input[@name='password']
+ INFO | 2022-12-21 16:33:15,163 | Common.java | 76 | Type 'Indium@123' in: Password Textbox in Login Form
+ INFO | 2022-12-21 16:33:15,170 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:15,171 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:15,184 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:15,315 | Common.java | 76 | Parsing Locator: Login Button in Login Form#xpath=//div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-21 16:33:15,315 | Common.java | 76 | Desktop_Chrome - Locator Description : Login Button in Login Form
+ INFO | 2022-12-21 16:33:15,315 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:15,315 | Common.java | 76 | Desktop_Chrome - Locator: //div[contains(@class,'application-form-container')]//button[contains(text(),'Log in')]
+ INFO | 2022-12-21 16:33:15,527 | Common.java | 76 | Click on: Login Button in Login Form
+ INFO | 2022-12-21 16:33:15,533 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:15,534 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:15,549 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:15,719 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:15,720 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-21 16:33:15,720 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:15,720 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:15,819 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-21 16:33:16,821 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:16,821 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-21 16:33:16,821 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:16,822 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:16,873 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2022-12-21 16:33:17,875 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:17,875 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-21 16:33:17,875 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:17,875 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:26,286 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:26,287 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-21 16:33:26,287 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:26,288 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:26,394 | Common.java | 76 | Parsing Locator: verify Navigate to login page#xpath=//span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:26,394 | Common.java | 76 | Desktop_Chrome - Locator Description : verify Navigate to login page
+ INFO | 2022-12-21 16:33:26,394 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:26,394 | Common.java | 76 | Desktop_Chrome - Locator: //span[text()='Welcome back!']
+ INFO | 2022-12-21 16:33:26,523 | Common.java | 76 | verify Navigate to login page is displayed
+ INFO | 2022-12-21 16:33:26,527 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:26,528 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:26,540 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:26,579 | Common.java | 76 | Successfully logedIn 
+ INFO | 2022-12-21 16:33:26,586 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:26,587 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:26,604 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:26,684 | Common.java | 76 | Parsing Locator: Actions#xpath=//span[contains(text(),'Actions')]//ancestor::a[@class='dropdown-anchor']
+ INFO | 2022-12-21 16:33:26,684 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions
+ INFO | 2022-12-21 16:33:26,684 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:26,684 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Actions')]//ancestor::a[@class='dropdown-anchor']
+ INFO | 2022-12-21 16:33:26,886 | Common.java | 76 | Parsing Locator: Actions#xpath=//span[contains(text(),'Actions')]//ancestor::a[@class='dropdown-anchor']
+ INFO | 2022-12-21 16:33:26,886 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions
+ INFO | 2022-12-21 16:33:26,887 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:26,887 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Actions')]//ancestor::a[@class='dropdown-anchor']
+ INFO | 2022-12-21 16:33:26,978 | Common.java | 76 | Parsing Locator: Actions#xpath=//span[contains(text(),'Actions')]//ancestor::a[@class='dropdown-anchor']
+ INFO | 2022-12-21 16:33:26,978 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions
+ INFO | 2022-12-21 16:33:26,979 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:26,979 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Actions')]//ancestor::a[@class='dropdown-anchor']
+ INFO | 2022-12-21 16:33:27,097 | Common.java | 76 | Actions is displayed
+ INFO | 2022-12-21 16:33:27,105 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:27,106 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:27,121 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:27,169 | Common.java | 76 | Displayed the MenuButton button
+ INFO | 2022-12-21 16:33:27,175 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:27,176 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:27,190 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:27,255 | Common.java | 76 | Parsing Locator: Actions#xpath=//span[contains(text(),'Actions')]//ancestor::a[@class='dropdown-anchor']
+ INFO | 2022-12-21 16:33:27,255 | Common.java | 76 | Desktop_Chrome - Locator Description : Actions
+ INFO | 2022-12-21 16:33:27,256 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:27,256 | Common.java | 76 | Desktop_Chrome - Locator: //span[contains(text(),'Actions')]//ancestor::a[@class='dropdown-anchor']
+ INFO | 2022-12-21 16:33:27,452 | Common.java | 76 | Click on: Actions
+ INFO | 2022-12-21 16:33:27,458 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:27,459 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:27,473 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:27,588 | Common.java | 76 | Successfully click on Action Button
+ INFO | 2022-12-21 16:33:27,627 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:27,627 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:27,645 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:27,731 | Common.java | 76 | Parsing Locator: Add New Listing#xpath=//ul//li//a[contains(text(),'Add New Listing')]
+ INFO | 2022-12-21 16:33:27,731 | Common.java | 76 | Desktop_Chrome - Locator Description : Add New Listing
+ INFO | 2022-12-21 16:33:27,731 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:27,731 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Add New Listing')]
+ INFO | 2022-12-21 16:33:27,953 | Common.java | 76 | Parsing Locator: Add New Listing#xpath=//ul//li//a[contains(text(),'Add New Listing')]
+ INFO | 2022-12-21 16:33:27,953 | Common.java | 76 | Desktop_Chrome - Locator Description : Add New Listing
+ INFO | 2022-12-21 16:33:27,953 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:27,953 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Add New Listing')]
+ INFO | 2022-12-21 16:33:28,109 | Common.java | 76 | Parsing Locator: Add New Listing#xpath=//ul//li//a[contains(text(),'Add New Listing')]
+ INFO | 2022-12-21 16:33:28,110 | Common.java | 76 | Desktop_Chrome - Locator Description : Add New Listing
+ INFO | 2022-12-21 16:33:28,110 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:28,110 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Add New Listing')]
+ INFO | 2022-12-21 16:33:28,248 | Common.java | 76 | Add New Listing is displayed
+ INFO | 2022-12-21 16:33:28,253 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:28,254 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:28,270 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:28,313 | Common.java | 76 | Displayed the Add New Listing item
+ INFO | 2022-12-21 16:33:28,318 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:28,319 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:28,332 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:28,423 | Common.java | 76 | Parsing Locator: Add New Listing#xpath=//ul//li//a[contains(text(),'Add New Listing')]
+ INFO | 2022-12-21 16:33:28,423 | Common.java | 76 | Desktop_Chrome - Locator Description : Add New Listing
+ INFO | 2022-12-21 16:33:28,423 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:28,424 | Common.java | 76 | Desktop_Chrome - Locator: //ul//li//a[contains(text(),'Add New Listing')]
+ INFO | 2022-12-21 16:33:28,698 | Common.java | 76 | Click on: Add New Listing
+ INFO | 2022-12-21 16:33:28,706 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:28,707 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:28,724 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:28,892 | Common.java | 76 | Successfully click on Add New Listing item
+ INFO | 2022-12-21 16:33:28,899 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:28,899 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:28,915 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:28,948 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2022-12-21 16:33:29,949 | Common.java | 76 | Parsing Locator: //label[text()='Salutation']//following::select//option[normalize-space(text())='Mr']
+ INFO | 2022-12-21 16:33:29,949 | Common.java | 76 | Desktop_Chrome - Locator Description : 
+ INFO | 2022-12-21 16:33:29,950 | Common.java | 76 | Desktop_Chrome - Identify Type: //label[text()
+ INFO | 2022-12-21 16:33:29,950 | Common.java | 76 | Desktop_Chrome - Locator: 'Salutation']//following::select//option[normalize-space(text())='Mr']
+ERROR | 2022-12-21 16:33:30,341 | Common.java | 84 | Exception in the method getElementAndClickjava.lang.IllegalArgumentException: No enum constant automationFramework.GenericKeywords.identifierType.//label[text()
+ INFO | 2022-12-21 16:33:30,346 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:30,346 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:30,359 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:30,388 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-12-21 16:33:30,390 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:30,392 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:30,394 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:30,396 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:30,398 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:30,443 | Common.java | 76 | Parsing Locator: Verify Salutation#xpath=//div[@class='form-group col-md-6 col-lg-3']//label[contains(text(),'Salutation')]
+ INFO | 2022-12-21 16:33:30,443 | Common.java | 76 | Desktop_Chrome - Locator Description : Verify Salutation
+ INFO | 2022-12-21 16:33:30,443 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:30,443 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//label[contains(text(),'Salutation')]
+ INFO | 2022-12-21 16:33:30,667 | Common.java | 76 | Parsing Locator: Verify Salutation#xpath=//div[@class='form-group col-md-6 col-lg-3']//label[contains(text(),'Salutation')]
+ INFO | 2022-12-21 16:33:30,667 | Common.java | 76 | Desktop_Chrome - Locator Description : Verify Salutation
+ INFO | 2022-12-21 16:33:30,668 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:30,668 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//label[contains(text(),'Salutation')]
+ INFO | 2022-12-21 16:33:30,771 | Common.java | 76 | Parsing Locator: Verify Salutation#xpath=//div[@class='form-group col-md-6 col-lg-3']//label[contains(text(),'Salutation')]
+ INFO | 2022-12-21 16:33:30,771 | Common.java | 76 | Desktop_Chrome - Locator Description : Verify Salutation
+ INFO | 2022-12-21 16:33:30,772 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:30,772 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//label[contains(text(),'Salutation')]
+ INFO | 2022-12-21 16:33:30,899 | Common.java | 76 | Verify Salutation is displayed
+ INFO | 2022-12-21 16:33:30,905 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:30,906 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:30,919 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:30,982 | Common.java | 76 | Parsing Locator: typeIn Salutation#xpath=//div[@class='form-group col-md-6 col-lg-3']//select[@class='form-control']
+ INFO | 2022-12-21 16:33:30,982 | Common.java | 76 | Desktop_Chrome - Locator Description : typeIn Salutation
+ INFO | 2022-12-21 16:33:30,982 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:30,983 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//select[@class='form-control']
+ INFO | 2022-12-21 16:33:31,096 | Common.java | 76 | Parsing Locator: typeIn Salutation#xpath=//div[@class='form-group col-md-6 col-lg-3']//select[@class='form-control']
+ INFO | 2022-12-21 16:33:31,096 | Common.java | 76 | Desktop_Chrome - Locator Description : typeIn Salutation
+ INFO | 2022-12-21 16:33:31,096 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:31,096 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//select[@class='form-control']
+ INFO | 2022-12-21 16:33:31,237 | Common.java | 76 | typeIn Salutation is displayed
+ INFO | 2022-12-21 16:33:31,242 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:31,243 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:31,254 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:31,279 | Common.java | 76 | Displayed the Salutation label
+ INFO | 2022-12-21 16:33:31,284 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:31,284 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:31,295 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:31,366 | Common.java | 76 | Parsing Locator: verify FirstName label is present#xpath=//label[text()='First Name']
+ INFO | 2022-12-21 16:33:31,366 | Common.java | 76 | Desktop_Chrome - Locator Description : verify FirstName label is present
+ INFO | 2022-12-21 16:33:31,366 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:31,366 | Common.java | 76 | Desktop_Chrome - Locator: //label[text()='First Name']
+ INFO | 2022-12-21 16:33:31,570 | Common.java | 76 | Parsing Locator: verify FirstName label is present#xpath=//label[text()='First Name']
+ INFO | 2022-12-21 16:33:31,571 | Common.java | 76 | Desktop_Chrome - Locator Description : verify FirstName label is present
+ INFO | 2022-12-21 16:33:31,571 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:31,571 | Common.java | 76 | Desktop_Chrome - Locator: //label[text()='First Name']
+ INFO | 2022-12-21 16:33:31,718 | Common.java | 76 | verify FirstName label is present is displayed
+ INFO | 2022-12-21 16:33:31,723 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:31,724 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:31,735 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:31,759 | Common.java | 76 | Displayed the FirstName label
+ INFO | 2022-12-21 16:33:31,765 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:31,766 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:31,778 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:31,849 | Common.java | 76 | Parsing Locator: TypeIn firstName#xpath=//div[@class='form-group col-md-6 col-lg-3']//input[@name='first_name']
+ INFO | 2022-12-21 16:33:31,849 | Common.java | 76 | Desktop_Chrome - Locator Description : TypeIn firstName
+ INFO | 2022-12-21 16:33:31,849 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:31,850 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//input[@name='first_name']
+ INFO | 2022-12-21 16:33:32,521 | Common.java | 76 | Type 'Indium' in: TypeIn firstName
+ INFO | 2022-12-21 16:33:32,526 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:32,526 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:32,541 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:32,618 | Common.java | 76 | Successfully enter the FirstName field
+ INFO | 2022-12-21 16:33:32,623 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:32,623 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:32,637 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:32,661 | Common.java | 76 | Parsing Locator: count the character#xpath=//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']
+ INFO | 2022-12-21 16:33:32,661 | Common.java | 76 | Desktop_Chrome - Locator Description : count the character
+ INFO | 2022-12-21 16:33:32,661 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:32,662 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']
+ERROR | 2022-12-21 16:33:36,164 | Common.java | 84 | Exception in countOFCharacterorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'IND-CHN-LT12568', ip: '10.10.152.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}), userDataDir=C:\Users\I5454\AppData\Local\Temp\scoped_dir20068_2086791582}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:54214}, webdriver.remote.sessionid=31dfd6d9c77c476a9d761b8185c7f3e6, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=108.0.5359.125, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]
+Session ID: 31dfd6d9c77c476a9d761b8185c7f3e6
+*** Element info: {Using=xpath, value=//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']}
+ INFO | 2022-12-21 16:33:36,169 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:36,170 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:36,184 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:36,217 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-12-21 16:33:36,219 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:36,223 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:36,225 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:36,227 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:36,229 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:36,273 | Common.java | 76 | Parsing Locator: verify LastName label is present#xpath=//label[text()='Last Name']
+ INFO | 2022-12-21 16:33:36,273 | Common.java | 76 | Desktop_Chrome - Locator Description : verify LastName label is present
+ INFO | 2022-12-21 16:33:36,273 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:36,273 | Common.java | 76 | Desktop_Chrome - Locator: //label[text()='Last Name']
+ INFO | 2022-12-21 16:33:36,390 | Common.java | 76 | Parsing Locator: verify LastName label is present#xpath=//label[text()='Last Name']
+ INFO | 2022-12-21 16:33:36,391 | Common.java | 76 | Desktop_Chrome - Locator Description : verify LastName label is present
+ INFO | 2022-12-21 16:33:36,391 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:36,391 | Common.java | 76 | Desktop_Chrome - Locator: //label[text()='Last Name']
+ INFO | 2022-12-21 16:33:36,539 | Common.java | 76 | verify LastName label is present is displayed
+ INFO | 2022-12-21 16:33:36,544 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:36,546 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:36,561 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:36,586 | Common.java | 76 | Displayed the LastName label
+ INFO | 2022-12-21 16:33:36,591 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:36,592 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:36,607 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:36,708 | Common.java | 76 | Parsing Locator: TypeIn LastName#xpath=//div[@class='form-group col-md-6 col-lg-3']//input[@name='last_name']
+ INFO | 2022-12-21 16:33:36,708 | Common.java | 76 | Desktop_Chrome - Locator Description : TypeIn LastName
+ INFO | 2022-12-21 16:33:36,708 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:36,708 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//input[@name='last_name']
+ INFO | 2022-12-21 16:33:37,384 | Common.java | 76 | Type 'Sample' in: TypeIn LastName
+ INFO | 2022-12-21 16:33:37,389 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:37,390 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:37,410 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:37,517 | Common.java | 76 | Successfully Enter the LastName field
+ INFO | 2022-12-21 16:33:37,523 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:37,523 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:37,546 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:37,585 | Common.java | 76 | Parsing Locator: count the character#xpath=//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']
+ INFO | 2022-12-21 16:33:37,585 | Common.java | 76 | Desktop_Chrome - Locator Description : count the character
+ INFO | 2022-12-21 16:33:37,585 | Common.java | 76 | Desktop_Chrome - Identify Type: xpath
+ INFO | 2022-12-21 16:33:37,585 | Common.java | 76 | Desktop_Chrome - Locator: //div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']
+ERROR | 2022-12-21 16:33:41,035 | Common.java | 84 | Exception in countOFCharacterorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:54:15.039Z'
+System info: host: 'IND-CHN-LT12568', ip: '10.10.152.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}), userDataDir=C:\Users\I5454\AppData\Local\Temp\scoped_dir20068_2086791582}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:54214}, webdriver.remote.sessionid=31dfd6d9c77c476a9d761b8185c7f3e6, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=108.0.5359.125, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]
+Session ID: 31dfd6d9c77c476a9d761b8185c7f3e6
+*** Element info: {Using=xpath, value=//div[@class='form-group col-md-6 col-lg-3']//input[@name='TextField']}
+ INFO | 2022-12-21 16:33:41,041 | Common.java | 76 | XML file is opened
+ INFO | 2022-12-21 16:33:41,041 | Common.java | 76 | Test step is created
+ INFO | 2022-12-21 16:33:41,054 | Common.java | 76 | XML file is saved and closed
+ INFO | 2022-12-21 16:33:41,080 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-12-21 16:33:41,083 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:41,085 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:41,087 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:41,089 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:41,090 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 3
+ INFO | 2022-12-21 16:33:41,100 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2022-12-21 16:33:41,102 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Hatcher Automation Execution Report
+ INFO | 2022-12-21 16:33:41,109 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 16:33:41,126 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 16:33:41,141 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-12-21 16:33:41,143 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 16:33:41,145 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 16:33:41,585 | Common.java | 76 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2022-12-21 16:33:41,593 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2022-12-21 16:33:41,595 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2022-12-21 16:33:41,598 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2022-12-21 16:33:42,197 | Common.java | 76 | Cleanup activites...
+ INFO | 2022-12-21 16:33:42,198 | Common.java | 76 | Cleanup activities - Done...
+ INFO | 2022-12-21 16:33:42,198 | Common.java | 76 | ###################################
+ INFO | 2022-12-21 16:33:42,198 | Common.java | 76 | Script Execution Complete
+ INFO | 2022-12-21 16:33:42,198 | Common.java | 76 | ###################################
